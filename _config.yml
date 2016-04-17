@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Seascape Sport Horses
+email: contact@seascapesporthorses.com
+author: Charis Dankert & Shannon Wilson
+description: >
+  Seascape Sport Horses specializes in importint high end hunter, jumper, and equitation horses. Located in Aptos CA.
+copyright: 'Copyright &copy; 2016 Seascape Sport Horses. All Rights Reserved.'
+# credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/Seascape-Sport-Horses-1174945482517873/
+  - title: instagram
+    url: https://www.instagram.com/seascapesporthorses/
