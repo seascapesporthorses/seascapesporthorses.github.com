@@ -1,0 +1,2866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"passw",
+				"password-reset"
+			],
+			[
+				"uplo",
+				"uploadProgress"
+			],
+			[
+				"error",
+				"errorCallback"
+			],
+			[
+				"EditA",
+				"EditAvatarModalStepView"
+			],
+			[
+				"image",
+				"imageSource"
+			],
+			[
+				"req",
+				"req\trequire"
+			],
+			[
+				"sign-up",
+				"sign-up-links"
+			],
+			[
+				"Frontp",
+				"FrontPageNavigationSidebarView"
+			],
+			[
+				"cov",
+				"cover-layer"
+			],
+			[
+				"sur",
+				"surface-layer"
+			],
+			[
+				"scroll",
+				"scrollHeight"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"Fronp",
+				"FrontPageTagGridListView"
+			],
+			[
+				"CardList-OptionLsitIm",
+				"CardList-OptionList-ImageText"
+			],
+			[
+				"ajax",
+				"ajaxURL"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"Question",
+				"QuestionCardOptionView"
+			],
+			[
+				"class",
+				"class View\tview-class"
+			],
+			[
+				"pro",
+				"pro-color"
+			],
+			[
+				"link",
+				"link-color"
+			],
+			[
+				"cur",
+				"currentColor"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"loaded",
+				"loadedSourceURL"
+			],
+			[
+				"previ",
+				"previousLeftOffset"
+			],
+			[
+				"left",
+				"leftOffset"
+			],
+			[
+				"Ca",
+				"Carousel-Image"
+			],
+			[
+				"Ima",
+				"ImageView"
+			],
+			[
+				"ImageLi",
+				"ImageListView"
+			],
+			[
+				"Image",
+				"ImageList"
+			],
+			[
+				"sidebar",
+				"sidebarDirty"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cli",
+				"children"
+			],
+			[
+				"fir",
+				"firstPreviousPage"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"render",
+				"renderOptions"
+			],
+			[
+				"cah",
+				"cachedViews"
+			],
+			[
+				"Chil",
+				"childView"
+			],
+			[
+				"child",
+				"childView"
+			],
+			[
+				"threa",
+				"threadHeight"
+			],
+			[
+				"item",
+				"itemtype"
+			],
+			[
+				"ipad",
+				"ipadShimInterval"
+			],
+			[
+				"ipadS",
+				"ipadShimScroll"
+			],
+			[
+				"active",
+				"activeToast"
+			],
+			[
+				"acti",
+				"activeToast"
+			],
+			[
+				"colla",
+				"collapseDescription"
+			],
+			[
+				"start",
+				"startNano"
+			],
+			[
+				"expand",
+				"expandDescription"
+			],
+			[
+				"Link",
+				"LinkBar-Count"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"is",
+				"isVoted"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"expa",
+				"expand"
+			],
+			[
+				"OptionPageSidebarOp",
+				"_OptionPageSidebarOptionView"
+			],
+			[
+				"Spec",
+				"SpecListItemView"
+			],
+			[
+				"Rec",
+				"RecommendationDropdownDisagreeView"
+			],
+			[
+				"Reco",
+				"RecommendationDropdownAgreeView"
+			],
+			[
+				"followsMar",
+				"followsMarginTop"
+			],
+			[
+				"Questio",
+				"QuestionNav-Link"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"SummaryPageSectio",
+				"SummaryPageSectionListView"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"notif",
+				"notif_interval"
+			],
+			[
+				"update",
+				"updateLastSeen"
+			],
+			[
+				"mobile",
+				"mobile-width"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"secti",
+				"Section"
+			],
+			[
+				"rq",
+				"require"
+			],
+			[
+				"C",
+				"Citation"
+			],
+			[
+				"collabo",
+				"collaboration-links"
+			],
+			[
+				"comment",
+				"commentText"
+			],
+			[
+				"con",
+				"contributors"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"_sear",
+				"_search-link"
+			],
+			[
+				"commu",
+				"community"
+			],
+			[
+				"search",
+				"searchDropdown"
+			],
+			[
+				"questio",
+				"questionList"
+			],
+			[
+				"ques",
+				"question-list"
+			],
+			[
+				"Search",
+				"SearchDropdownQuestionView"
+			],
+			[
+				"_Sear",
+				"_SearchDropdownQuestionListView"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"alert",
+				"alert-color"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"section",
+				"sectionURL"
+			],
+			[
+				"sec",
+				"sectionURL"
+			],
+			[
+				"event",
+				"eventName"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"focus",
+				"focusInputEnd"
+			],
+			[
+				"docum",
+				"documentWidth"
+			],
+			[
+				"follows",
+				"followsHeight"
+			],
+			[
+				"check",
+				"checkUrl"
+			],
+			[
+				"submit",
+				"submit-button-color"
+			],
+			[
+				"fra",
+				"fragmentOverride"
+			],
+			[
+				"fill",
+				"fillData"
+			],
+			[
+				"unde",
+				"undelegateAll"
+			],
+			[
+				"dele",
+				"delegateAll"
+			],
+			[
+				"stop",
+				"stopListening"
+			],
+			[
+				"imageUR",
+				"imageURL"
+			],
+			[
+				"ToastC",
+				"ToastAddCitationSidebarView"
+			],
+			[
+				"ToastAdd",
+				"ToastAddImageSidebarView"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"dia",
+				"disabled"
+			],
+			[
+				"comp",
+				"compareJSON"
+			],
+			[
+				"view",
+				"viewpoints"
+			],
+			[
+				"cit",
+				"citations"
+			],
+			[
+				"tran",
+				"transitioning"
+			],
+			[
+				"new",
+				"newHeight"
+			],
+			[
+				"Sectio",
+				"SectionEdit"
+			],
+			[
+				"original",
+				"originalAttributes"
+			],
+			[
+				"be",
+				"beforeunload"
+			],
+			[
+				"Noti",
+				"NotifyPopupView"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"_souc",
+				"_source-url-input"
+			],
+			[
+				"imageURL",
+				"isImageURLError"
+			],
+			[
+				"isSite",
+				"isSiteURLError"
+			],
+			[
+				"isSiteUR",
+				"isSiteURLInvalidError"
+			],
+			[
+				"text-",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nHexViewer\n---------\n\n  # HexViewer 2.2.0\n  \n  ## New\n  \n  - Rename \"Find by Address\" to \"Go to Offset\".\n  - Add option to allow HexViewer to prompt user if file too big.\n  - Add manual reload command.\n  - Close inspector on file close.\n  \n  ## Fixes\n  \n  - Fix parameter name in edit command.\n",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 818,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/contact.html",
+			"settings":
+			{
+				"buffer_size": 1155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/about.html",
+			"settings":
+			{
+				"buffer_size": 593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/page_content.html",
+			"settings":
+			{
+				"buffer_size": 1655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/js.html",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 2055,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 273,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/sales.html",
+			"settings":
+			{
+				"buffer_size": 3903,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "wra",
+		"selected_items":
+		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"prefere",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"hsla",
+				"HSL: Convert Selected RGB to HSLA"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"fuzzy",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"fuzz",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"to",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"todo",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"hexviewer",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hexview",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hex",
+				"Random:Hex Color"
+			],
+			[
+				"requirer",
+				"NodeRequirer: Set Plugin Options"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"for",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git open",
+				"Git: Open Modified Files"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sprt",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"lwo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"post",
+				"Set Syntax: SQL (PostgreSQL)"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sory",
+				"Set Syntax: Groovy"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (PostgreSQL)"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"pacage in",
+				"Package Control: Install Package"
+			],
+			[
+				"hsl",
+				"HSL: Convert Selected RGB to HSL"
+			],
+			[
+				"hs",
+				"HSL: Convert Selected RGB to HSL"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set text",
+				"Set Syntax: Textile"
+			],
+			[
+				"convert",
+				"Color Convert: convert"
+			],
+			[
+				"color con",
+				"Color Convert: convert"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"packag install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"unu",
+				"Permute Lines: Unique"
+			],
+			[
+				"uniqu",
+				"Permute Lines: Unique"
+			],
+			[
+				"prem",
+				"Permute Lines: Unique"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"pref def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pref defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"unique",
+				"Permute Lines: Unique"
+			],
+			[
+				"fi",
+				"Text Pastry: Find"
+			],
+			[
+				"textpastry",
+				"Text Pastry: Range"
+			],
+			[
+				"find",
+				"Text Pastry: Find"
+			],
+			[
+				"from",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"textpastry fr",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"text pastry",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"edit proj",
+				"Project: Edit Project"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"format",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"set stylu",
+				"Set Syntax: Stylus"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle min",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"d",
+				"FileDiffs: Menu"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inver",
+				"Permute Lines: Reverse"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"stylu",
+				"Set Syntax: Stylus"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 336.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tim/Projects/seascape-sport-horses"
+	],
+	"file_history":
+	[
+		"/home/tim/Projects/seascape-sport-horses/_includes/sales.html",
+		"/home/tim/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/tim/Projects/Parli/server/source/DB/sql/Slant.sql",
+		"/home/tim/Projects/Parli/.env",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/login-modal-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/models.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/tag-page.jade",
+		"/home/tim/Projects/Parli/package.json",
+		"/home/tim/Projects/Parli/client/source/pages/templates/summary-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/rules.coffee",
+		"/home/tim/Projects/Parli/README.md",
+		"/home/tim/.psqlrc",
+		"/home/tim/Projects/Parli/client/source/scripts/models/action.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/models/spec.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/models/model.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/models/image.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/models/index.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/collections/index.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/collections.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/login.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/helpers.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/index.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/add-question-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/model.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/add-question-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/view-helper.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/meta/scripts.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/index.coffee",
+		"/home/tim/Projects/Parli/server/source/URLs.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/discourse-login-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/modal-view.coffee",
+		"/home/tim/Projects/Parli/server/source/index.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/discourse-login-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/login-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/view.coffee",
+		"/home/tim/Projects/Parli/server/source/templates.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/data.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/update-post-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/topic-editor.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/patterns.coffee",
+		"/home/tim/Projects/Parli/client/source/static/css/font-awesome.min.css",
+		"/home/tim/Projects/Parli/client/source/stylesheets/style.styl",
+		"/home/tim/Projects/Parli/client/source/static/css/font-awesome.css",
+		"/home/tim/Projects/Parli/client/source/stylesheets/test.styl",
+		"/home/tim/Projects/Parli/client/source/pages/templates/about-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/main.jade",
+		"/home/tim/Projects/Parli/client/source/pages/meta/links.jade",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/edit-avatar-modal.styl",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/edit-avatar-modal.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/edit-avatar-modal-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/not-found-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/router.coffee",
+		"/home/tim/Projects/Parli/server/source/render.coffee",
+		"/home/tim/Projects/Parli/server/source/DB/db-User.coffee",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/modal.styl",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/dropdown.styl",
+		"/home/tim/Projects/Parli/server/source/DB/sql/Insert.sql",
+		"/home/tim/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/tim/Projects/Parli/node_modules/backbone/backbone.js",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/edit-profile-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/rule.coffee",
+		"/home/tim/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/tim/Projects/Parli/client/source/scripts/views/models/image-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/header.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/edit-profile-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/toaster.jade",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/buttons.styl",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/popup-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/profile-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/models/user-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/transforms.coffee",
+		"/home/tim/Projects/Parli/server/source/DB/sql/JSON.sql",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/recommendation-dropdown-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/toaster-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/flag-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/recommendation-view.coffee",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/avatar.styl",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/thanks-modal.jade",
+		"/home/tim/Projects/Parli/client/source/static/search.xml",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/edit-avatar.styl",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/edit-profile.styl",
+		"/home/tim/Projects/Parli/client/source/stylesheets/constants.styl",
+		"/home/tim/Projects/Parli/client/source/pages/edit-profile-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/compare-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/activity-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/index.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/front-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/main-header-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/front-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/index.coffee",
+		"/home/tim/.config/sublime-text-3/Packages/User/FuzzyFilePath.sublime-settings",
+		"/home/tim/.config/sublime-text-3/Packages/FuzzyFilePath/FuzzyFilePath.sublime-settings",
+		"/home/tim/Projects/Parli/client/source/pages/templates/update-profile-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/update-profile-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/update-post-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/reference-slideshow-view.coffee",
+		"/home/tim/Projects/Parli/server/source/DB/db-Auth.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/lists/citation-list-view.coffee",
+		"/home/tim/Projects/Parli/server/source/authPages.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/models/event-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/models/option-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/option-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/collection.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/summary-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/question-card-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/question-card.jade",
+		"/home/tim/Projects/Parli/client/source/stylesheets/global.styl",
+		"/home/tim/Projects/Parli/tests/source/e2e/globals.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/tag-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/sidebar-contributors-view.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/sidebar-contributors.jade",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/activity-list.styl",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/card-list.styl",
+		"/home/tim/Projects/Parli/client/source/scripts/setup.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/tag-page.jade",
+		"/home/tim/Projects/Parli/client/source/stylesheets/mixins.styl",
+		"/home/tim/Projects/Parli/client/source/static/terms.html",
+		"/home/tim/Projects/Parli/tests/source/e2e/views/pages/add-question.coffee",
+		"/home/tim/Projects/Parli/tests/source/e2e/tests/contribute-question/add-question.coffee",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/sidebar-user-stats.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/search-page.jade",
+		"/home/tim/Projects/Parli/client/source/scripts/views/pages/compare-page-view.coffee",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/page-header.styl",
+		"/home/tim/Projects/Parli/client/source/scripts/views/components/sidebar-user-stats-view.coffee",
+		"/home/tim/Projects/Parli/client/source/stylesheets/components/sidebar-contributors.styl",
+		"/home/tim/Projects/Parli/client/source/pages/templates/option-page.jade",
+		"/home/tim/Projects/Parli/client/source/pages/templates/components/sidebar-tag-filter.jade"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/home/tim/Projects/",
+			"/home/tim/Projects/Parli/server/source/DB/sql",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/server/source/DB/",
+			"/home/tim/Projects/Parli/server/source/DB/sql",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/tests/source/",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/page",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/stylesheets",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/static/images/icons/detailed",
+			"/home/tim/Projects/Parli/client/source/static/images/icons/simple",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/",
+			"/home/tim/Projects/Parli/tests/",
+			"/home/tim/Projects/Parli/server/source/DB",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/server/source/",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/stylesheets",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages/templates",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source/pages",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/server/source",
+			"/home/tim/Projects/Parli/client/source",
+			"/home/tim/Projects/Parli/client/source/scripts",
+			"/home/tim/Projects/Parli/client/source/",
+			"/home/tim/Projects/Parli/client/source/pages"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a href",
+			"md",
+			"col-md-6",
+			"about",
+			"About",
+			"Shannon",
+			"shannon",
+			"index",
+			"_React",
+			"React",
+			"dbSetSEid",
+			"react",
+			"ObjectType",
+			"loginOAuth",
+			"OAth",
+			",",
+			" \"",
+			"\"",
+			"Models",
+			"\nclass",
+			"Models.",
+			"TopicComment",
+			"Models.TopicComment",
+			"Models.",
+			"localModels",
+			"URI",
+			"Fingerprint",
+			"Backbone",
+			"$",
+			"\\$",
+			"Models",
+			"Collections",
+			"Collection",
+			"Image",
+			"YOUTUBE_LINK",
+			"HTMLCanvasElement",
+			"BaseImage",
+			"uploadcare",
+			"\nclass",
+			"Models",
+			"Collections",
+			"values",
+			"signup:",
+			"values",
+			"password-reset",
+			"values",
+			"resetPassword",
+			"values",
+			"signup",
+			"values",
+			"formValues",
+			"value",
+			"values",
+			"name=\"",
+			"\"login",
+			"values",
+			"formValues",
+			"helper",
+			"source",
+			"uploadFrom",
+			"question-tags",
+			"url:",
+			"tagList",
+			"tags",
+			"topic",
+			"model",
+			"Tag",
+			"TopicList",
+			"Models",
+			"formValues",
+			"values",
+			"model.",
+			"model\\.",
+			"collection",
+			"submitModel",
+			"formValues",
+			"helper",
+			"discourse",
+			"jquery",
+			"$",
+			"sign-up",
+			"close",
+			"token",
+			"Views.Login",
+			"Login",
+			"reset",
+			"tagData",
+			"./data",
+			"data",
+			"template",
+			"LoginView",
+			"login-modal-view",
+			"LoginModalView",
+			"login-view",
+			"removeClass('no",
+			"LoginView",
+			"LoginModalView",
+			"Views.Login",
+			"Login",
+			"LoginView",
+			"Login",
+			"LoginView",
+			".Login",
+			"\\.Login",
+			"Login",
+			"login-view",
+			"values",
+			"formValues",
+			"view-helper",
+			"Editor",
+			"Update",
+			"Edit",
+			"require.*data",
+			"require.+data",
+			"data",
+			"formValues",
+			"view-helper",
+			"submitModel",
+			"helpers",
+			"community",
+			"twitter-email.png",
+			"spinner.svg",
+			"social-tw.png",
+			"slant.svg",
+			"slant-white.svg",
+			"slant-black.svg",
+			"play.png",
+			"loader.gif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_no-close",
+			"EditAvatarModalCompleteStepView",
+			"EditAvatarModalProgressStepView",
+			"EditAvatarModalFileStepView",
+			"EditAvatarModalWebStepView",
+			"$1",
+			"$1 ---- $2",
+			"._load-more-link._has-more-items",
+			"| &#x20;in&#x20;",
+			"content-layer",
+			".AddQuestionHeader",
+			".QuestionDetailed",
+			"include components/reporting",
+			"include components/spec-table",
+			"include components/login",
+			"",
+			".hide-mobile",
+			".hide-minimum",
+			".NavHeader",
+			"",
+			"svg viewBox=\"0 0 128 128\" ",
+			"",
+			"<g $2 $1>",
+			"path></g",
+			"><path",
+			">\\n<g id",
+			"$1 viewBox=\"0 0 128 128\"",
+			"",
+			"</g>",
+			"",
+			"to",
+			"QuestionCardUserView",
+			"t0",
+			"_remove-source-link",
+			"_cancel-source-link",
+			"_add-source-link",
+			"_remove-image-link",
+			"_cancel-image-link",
+			"_add-image-link",
+			"_add-description-link",
+			"_cancel-description-link",
+			".NavSidebar",
+			".HeroHeader",
+			"getImageThumbnailURL",
+			"getImagePreviewURL",
+			"getPreviewImageURL",
+			"getThumbnailImageURL",
+			"$2, $1",
+			"link-dark-color",
+			"_has-active-sidebar",
+			"_no-active-sidebar",
+			"_has-active-sidebar",
+			"SummaryPageOptionThreadView",
+			".SummaryPage",
+			".fa.fa-times",
+			"link-transition",
+			"QuestionNavOptionListView",
+			"QuestionNavOptionView",
+			"QuestionNavDropdownView",
+			"@media",
+			"960px",
+			"SummaryPageOptionRecommendationView",
+			"PrimaryButton",
+			"$1.jpg",
+			".OptionPreviewList-ReadMore",
+			"LinkBar-Item",
+			".LinkBar",
+			"._has-items",
+			"._no-items",
+			"post-page-view",
+			"community-questions-page-view",
+			"community-activity-page-view",
+			"community-page-view",
+			"$1$2-view'",
+			"$1-view'",
+			"$1feed-list-view",
+			"$1-view'",
+			"$-view'",
+			"$1question-list-view",
+			"$1feedback-form-view",
+			"$1event-list-view",
+			"$1-view",
+			"$1event-thread-view",
+			"$1-view",
+			"$1question-thread-view",
+			"$1feed-thread-view",
+			"$1-view",
+			"$1section-recommendation-dropdown-view",
+			"$1-view",
+			"$1section-list-view",
+			"$1viewpoint-list-view",
+			"$1topic-list-view",
+			"$1-view",
+			"Model:",
+			"Collection:",
+			"ThanksModal",
+			"{\\n",
+			",\\n",
+			"require('dotenv').load(silent: true)",
+			"addQuestion",
+			"(client)",
+			"$1 - $2",
+			"ToastEditOptionView",
+			"ToastEditSectionView",
+			"._description-sidebar-input",
+			"._image-sidebar",
+			"._description-input",
+			"ToastImageSidebarView",
+			"ToastCitationSidebarView",
+			".Toaster-SourceList",
+			"._is-female-fashion",
+			"ToastAddCitationSidebarView",
+			"ToastAddSourceView",
+			"ToastAddImageView",
+			"ToastSectionView",
+			"ToastOptionView",
+			"ToastAddOptionView",
+			"ToastView",
+			"ToasterAddOptionView",
+			"return tag.id in ['development', 'gaming', 'female-fashion']",
+			"_username",
+			"urijs",
+			"getChildByModel",
+			"getChild",
+			"\"",
+			"},\\n",
+			"],\\n",
+			":[\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								1023
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/page_content.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1655,
+								1655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_includes/js.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_includes/sales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3891,
+								3891
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "seascape-sport-horses.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sales",
+				"_includes/sales.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"models",
+				"client/source/scripts/models.coffee"
+			],
+			[
+				"sublime",
+				"parli.sublime-project"
+			],
+			[
+				"slan",
+				"server/source/DB/sql/Slant.sql"
+			],
+			[
+				"exe",
+				"server/source/DB/sql/Execute.sql"
+			],
+			[
+				"db-section",
+				"server/source/DB/db-Section.coffee"
+			],
+			[
+				"db-optio",
+				"server/source/DB/db-Option.coffee"
+			],
+			[
+				"db-topic",
+				"server/source/DB/db-Topic.coffee"
+			],
+			[
+				"ur",
+				"server/source/URLs.coffee"
+			],
+			[
+				"slant.",
+				"server/source/DB/sql/Slant.sql"
+			],
+			[
+				"summary.",
+				"client/source/pages/templates/summary-page.jade"
+			],
+			[
+				"login",
+				"client/source/scripts/views/components/login-modal-view.coffee"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				".",
+				".env"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"tag-page",
+				"client/source/pages/tag-page.jade"
+			],
+			[
+				"model.",
+				"client/source/scripts/models/model.coffee"
+			],
+			[
+				"index",
+				"client/source/scripts/views/index.coffee"
+			],
+			[
+				"index.coffee",
+				"client/source/scripts/views/index.coffee"
+			],
+			[
+				"collections",
+				"client/source/scripts/collections.coffee"
+			],
+			[
+				"login-mod",
+				"client/source/scripts/views/components/login-modal-view.coffee"
+			],
+			[
+				"login-modal",
+				"client/source/scripts/views/components/login-modal-view.coffee"
+			],
+			[
+				"model",
+				"client/source/scripts/model.coffee"
+			],
+			[
+				"add-que",
+				"client/source/pages/templates/add-question-page.jade"
+			],
+			[
+				"helpers",
+				"client/source/scripts/helpers.coffee"
+			],
+			[
+				"modal-view",
+				"client/source/scripts/views/components/modal-view.coffee"
+			],
+			[
+				"loginmoda",
+				"client/source/scripts/views/components/login-modal-view.coffee"
+			],
+			[
+				"views",
+				"client/source/scripts/views.coffee"
+			],
+			[
+				"urls",
+				"server/source/URLs.coffee"
+			],
+			[
+				"components/ind",
+				"client/source/scripts/views/components/index.coffee"
+			],
+			[
+				"scripts",
+				"client/source/pages/meta/scripts.jade"
+			],
+			[
+				"login-view",
+				"client/source/scripts/views/components/login-modal-view.coffee"
+			],
+			[
+				"loginview",
+				"~/Projects/Parli/client/source/scripts/views/components/login-view.coffee"
+			],
+			[
+				"discourse",
+				"client/source/pages/templates/discourse-login-page.jade"
+			],
+			[
+				"login.jade",
+				"client/source/pages/templates/components/login.jade"
+			],
+			[
+				"view",
+				"client/source/scripts/view.coffee"
+			],
+			[
+				"viewhel",
+				"client/source/scripts/view-helper.coffee"
+			],
+			[
+				"topicedi",
+				"client/source/pages/templates/components/topic-editor.jade"
+			],
+			[
+				"update-post",
+				"client/source/pages/templates/update-post-page.jade"
+			],
+			[
+				"templates",
+				"server/source/templates.coffee"
+			],
+			[
+				"about",
+				"client/source/pages/templates/about-page.jade"
+			],
+			[
+				"links",
+				"client/source/pages/meta/links.jade"
+			],
+			[
+				"temp",
+				"server/source/templates.coffee"
+			],
+			[
+				"router",
+				"client/source/scripts/router.coffee"
+			],
+			[
+				"notfound",
+				"client/source/pages/templates/not-found-page.jade"
+			],
+			[
+				"url",
+				"server/source/URLs.coffee"
+			],
+			[
+				"db-user",
+				"server/source/DB/db-User.coffee"
+			],
+			[
+				"editmodal",
+				"client/source/pages/templates/components/edit-avatar-modal.jade"
+			],
+			[
+				"edit-ava",
+				"client/source/pages/templates/components/edit-avatar-modal.jade"
+			],
+			[
+				"dropdownst",
+				"client/source/stylesheets/components/dropdown.styl"
+			],
+			[
+				"modal",
+				"client/source/stylesheets/components/modal.styl"
+			],
+			[
+				"imagev",
+				"client/source/scripts/views/models/image-view.coffee"
+			],
+			[
+				"rule",
+				"client/source/scripts/rule.coffee"
+			],
+			[
+				"sla",
+				"server/source/DB/sql/Slant.sql"
+			],
+			[
+				"edit-modal",
+				"client/source/scripts/views/components/edit-avatar-modal-view.coffee"
+			],
+			[
+				"edit-pro",
+				"client/source/scripts/views/pages/edit-profile-page-view.coffee"
+			],
+			[
+				"toast",
+				"client/source/pages/templates/components/toaster.jade"
+			],
+			[
+				"editpro",
+				"client/source/pages/templates/edit-profile-page.jade"
+			],
+			[
+				"profile",
+				"client/source/pages/templates/profile-page.jade"
+			],
+			[
+				"edit-profile",
+				"client/source/scripts/views/pages/edit-profile-page-view.coffee"
+			],
+			[
+				"popupview",
+				"client/source/scripts/views/components/popup-view.coffee"
+			],
+			[
+				"buttons",
+				"client/source/stylesheets/components/buttons.styl"
+			],
+			[
+				"edit-avatar",
+				"client/source/stylesheets/components/edit-avatar-modal.styl"
+			],
+			[
+				"editavatar",
+				"client/source/scripts/views/components/edit-avatar-modal-view.coffee"
+			],
+			[
+				"modalvi",
+				"client/source/scripts/views/components/modal-view.coffee"
+			],
+			[
+				"header",
+				"client/source/pages/templates/components/header.jade"
+			],
+			[
+				"componentsindex",
+				"client/source/scripts/views/components/index.coffee"
+			],
+			[
+				"user-view",
+				"client/source/scripts/views/models/user-view.coffee"
+			],
+			[
+				"rules",
+				"client/source/scripts/rules.coffee"
+			],
+			[
+				"flag-view",
+				"client/source/scripts/views/components/flag-view.coffee"
+			],
+			[
+				"recomdropd",
+				"client/source/scripts/views/components/recommendation-dropdown-view.coffee"
+			],
+			[
+				"recomm",
+				"client/source/scripts/views/components/recommendation-view.coffee"
+			],
+			[
+				"sty",
+				"client/source/stylesheets/components/avatar.styl"
+			],
+			[
+				"thanks",
+				"client/source/pages/templates/components/thanks-modal.jade"
+			],
+			[
+				"toaster",
+				"client/source/scripts/views/components/toaster-view.coffee"
+			],
+			[
+				"metalink",
+				"client/source/pages/meta/links.jade"
+			],
+			[
+				"imageview",
+				"client/source/scripts/views/models/image-view.coffee"
+			],
+			[
+				"image",
+				"client/source/scripts/views/models/image-view.coffee"
+			],
+			[
+				"compoindex",
+				"client/source/scripts/views/components/index.coffee"
+			],
+			[
+				"modalview",
+				"client/source/scripts/views/components/modal-view.coffee"
+			],
+			[
+				"const",
+				"client/source/stylesheets/constants.styl"
+			],
+			[
+				"edit-pr",
+				"client/source/stylesheets/components/edit-profile.styl"
+			],
+			[
+				"modal.jade",
+				"client/source/pages/templates/components/thanks-modal.jade"
+			],
+			[
+				"drop",
+				"client/source/stylesheets/components/dropdown.styl"
+			],
+			[
+				"popup",
+				"client/source/scripts/views/components/popup-view.coffee"
+			],
+			[
+				"edit-p",
+				"client/source/pages/templates/edit-profile-page.jade"
+			],
+			[
+				"edit-profilepageview",
+				"client/source/scripts/views/pages/edit-profile-page-view.coffee"
+			],
+			[
+				"headercoffee",
+				"client/source/scripts/views/components/main-header-view.coffee"
+			],
+			[
+				"frontpage",
+				"client/source/pages/templates/front-page.jade"
+			],
+			[
+				"user-",
+				"client/source/scripts/views/models/user-view.coffee"
+			],
+			[
+				"activity",
+				"client/source/pages/templates/activity-page.jade"
+			],
+			[
+				"templateindex",
+				"client/source/pages/templates/index.jade"
+			],
+			[
+				"pagesindex",
+				"client/source/scripts/views/pages/index.coffee"
+			],
+			[
+				"front-p",
+				"client/source/scripts/views/pages/front-page-view.coffee"
+			],
+			[
+				"pagesinde",
+				"client/source/pages/templates/index.jade"
+			],
+			[
+				"edit-r",
+				"client/source/pages/templates/edit-profile-page.jade"
+			],
+			[
+				"updatpro",
+				"client/source/pages/update-profile-page.jade"
+			],
+			[
+				"update",
+				"client/source/pages/update-post-page.jade"
+			],
+			[
+				"profilepage",
+				"client/source/pages/templates/update-profile-page.jade"
+			],
+			[
+				"event",
+				"client/source/scripts/views/models/event-view.coffee"
+			],
+			[
+				"auth",
+				"server/source/authPages.coffee"
+			],
+			[
+				"option-page",
+				"client/source/scripts/views/pages/option-page-view.coffee"
+			],
+			[
+				"option-view",
+				"client/source/scripts/views/models/option-view.coffee"
+			],
+			[
+				"reference",
+				"client/source/scripts/views/components/reference-slideshow-view.coffee"
+			],
+			[
+				"summary-view",
+				"client/source/scripts/views/pages/summary-page-view.coffee"
+			],
+			[
+				"coll",
+				"client/source/scripts/collection.coffee"
+			],
+			[
+				"dropdownview",
+				"client/source/scripts/views/components/recommendation-dropdown-view.coffee"
+			],
+			[
+				"constants",
+				"client/source/stylesheets/constants.styl"
+			],
+			[
+				"global",
+				"client/source/stylesheets/global.styl"
+			],
+			[
+				"globals",
+				"tests/source/e2e/globals.coffee"
+			],
+			[
+				"que",
+				"client/source/pages/templates/components/question-card.jade"
+			],
+			[
+				"question-card",
+				"client/source/scripts/views/components/question-card-view.coffee"
+			],
+			[
+				"front-page",
+				"client/source/scripts/views/pages/front-page-view.coffee"
+			],
+			[
+				"card-list",
+				"client/source/stylesheets/components/card-list.styl"
+			],
+			[
+				"activity-list",
+				"client/source/stylesheets/components/activity-list.styl"
+			],
+			[
+				"sidebar-contr",
+				"client/source/scripts/views/components/sidebar-contributors-view.coffee"
+			],
+			[
+				"contributors",
+				"client/source/pages/templates/components/sidebar-contributors.jade"
+			],
+			[
+				"activitylist",
+				"client/source/stylesheets/components/activity-list.styl"
+			],
+			[
+				"serindex",
+				"server/source/index.coffee"
+			],
+			[
+				"tag-page-view",
+				"client/source/scripts/views/pages/tag-page-view.coffee"
+			],
+			[
+				"card",
+				"client/source/pages/templates/components/question-card.jade"
+			],
+			[
+				"tran",
+				"client/source/scripts/transforms.coffee"
+			],
+			[
+				"summar",
+				"client/source/scripts/views/pages/summary-page-view.coffee"
+			],
+			[
+				"frontpag",
+				"client/source/scripts/views/pages/front-page-view.coffee"
+			],
+			[
+				"trans",
+				"client/source/scripts/transforms.coffee"
+			],
+			[
+				"setup",
+				"client/source/scripts/setup.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "par",
+		"selected_items":
+		[
+			[
+				"par",
+				"~/Projects/Parli/parli.sublime-project"
+			],
+			[
+				"favi",
+				"~/Projects/favitimer/favitimer.sublime-project"
+			],
+			[
+				"fav",
+				"~/Projects/favitimer/favitimer.sublime-project"
+			],
+			[
+				"fai",
+				"~/Projects/favitimer/favitimer.sublime-project"
+			],
+			[
+				"et",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"rule",
+				"~/Projects/rule/rule.sublime-project"
+			],
+			[
+				"hr",
+				"~/Projects/hr-accumulator/hr-accumulator.sublime-project"
+			],
+			[
+				"ruel",
+				"~/Projects/rule/rule.sublime-project"
+			],
+			[
+				"ht",
+				"~/Projects/hr-accumulator/hr-accumulator.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/hr-accumulator/hr-accumulator.sublime-project"
+			],
+			[
+				"acc",
+				"~/Projects/hr-accumulator/hr-accumulator.sublime-project"
+			],
+			[
+				"sub",
+				"~/Projects/sub/sub.sublime-project"
+			],
+			[
+				"f",
+				"~/Projects/favitimer/favitimer.sublime-project"
+			],
+			[
+				"etl",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"fa",
+				"~/Projects/favitimer/favitimer.sublime-project"
+			],
+			[
+				"mario",
+				"~/Projects/mario-base/mario-base.sublime-project"
+			],
+			[
+				"mar",
+				"~/Projects/mario-base-sails/mario-base.sublime-project"
+			],
+			[
+				"su",
+				"~/Projects/sub/sub.sublime-project"
+			],
+			[
+				"ru",
+				"~/Projects/rule/rule.sublime-project"
+			],
+			[
+				"sb",
+				"~/Projects/Sub/sub.sublime-project"
+			],
+			[
+				"rul",
+				"~/Projects/Rule/rule.sublime-project"
+			],
+			[
+				"e",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"etler",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"timetler",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"prismj",
+				"~/Projects/prism/prism.sublime-project"
+			],
+			[
+				"rules",
+				"~/Projects/Rule/rule.sublime-project"
+			],
+			[
+				"etle",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"parli",
+				"~/Projects/Parli/parli.sublime-project"
+			],
+			[
+				"p",
+				"~/Projects/Parli/parli.sublime-project"
+			],
+			[
+				"parliem",
+				"~/Projects/ParliEmail/parliemail.sublime-project"
+			],
+			[
+				"bac",
+				"~/Projects/backbone/backbone.sublime-project"
+			],
+			[
+				"back",
+				"~/Projects/backbone/backbone.sublime-project"
+			],
+			[
+				"pr",
+				"~/Projects/Parli/parli.sublime-project"
+			],
+			[
+				"rl",
+				"~/Projects/Rule/rule.sublime-project"
+			],
+			[
+				"rule.",
+				"~/Projects/Rule/rule.sublime-project"
+			],
+			[
+				"eterl",
+				"~/Projects/etler.github.com/etler.sublime-project"
+			],
+			[
+				"sub.j",
+				"~/Projects/Sub/sub.sublime-project"
+			],
+			[
+				"vi",
+				"~/Projects/vidraw/vidraw.sublime-workspace"
+			],
+			[
+				"r",
+				"~/Projects/Rule/rule.sublime-project"
+			],
+			[
+				"Su",
+				"~/Projects/Sub/sub.sublime-project"
+			],
+			[
+				"Rule",
+				"~/Projects/Rule/rule.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "recommendation",
+		"selected_items":
+		[
+			[
+				"recommendation",
+				"RecommendationView"
+			],
+			[
+				"citationlist",
+				"CitationListView"
+			],
+			[
+				"@cell",
+				"@Cell"
+			],
+			[
+				"summa",
+				"SummaryPageView"
+			],
+			[
+				"summaryPage",
+				"SummaryPageView"
+			]
+		],
+		"width": 457.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
