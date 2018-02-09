@@ -85,7 +85,9 @@ img {
   min-height: 100vh;
   text-align: center;
   color: #f8f8f8;
-  background: url(../img/intro-bg.jpg) no-repeat center center;
+  background-color: #0c060c;
+  background-image: url(../img/intro-bg.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
 }
