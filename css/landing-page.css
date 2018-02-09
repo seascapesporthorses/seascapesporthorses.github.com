@@ -87,6 +87,7 @@ img {
   color: #f8f8f8;
   background: url(../img/intro-bg.jpg) no-repeat center center;
   background-size: cover;
+  background-position: left center;
 }
 
 .intro-message {
@@ -114,6 +115,22 @@ img {
 .intro-link:hover {
   color: #a1a1a1;
   text-decoration: none;
+}
+
+.intro-social-icon {
+  position: relative;
+  margin-right: 5px;
+  top: 2px;
+}
+
+.intro-social-icon svg {
+  height: 15px;
+  fill: white;
+}
+
+.nav-bar-social-link:hover  .intro-social-icon svg,
+.intro-link:hover .intro-social-icon svg {
+  fill: #a1a1a1;
 }
 
 .filter {
@@ -245,6 +262,11 @@ img {
 
 .thumbnail {
   border-color: #a2cff7;
+}
+
+.thumbnail img {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .btn-primary {

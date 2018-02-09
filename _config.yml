@@ -25,7 +25,10 @@ permalink: pretty
 social:
   - title: facebook
     url: https://www.facebook.com/Seascape-Sport-Horses-1174945482517873/
+    icon: facebook-f
   - title: instagram
     url: https://www.instagram.com/seascapesporthorses/
+    icon: instagram
   - title: youtube
     url: https://www.youtube.com/channel/UC4p-58EHq0rpY6Qjzg5GPUw
+    icon: youtube

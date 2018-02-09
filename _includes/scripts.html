@@ -1,0 +1,12 @@
+<style>
+  {% include_relative lib/photoswipe/photoswipe.css %}
+  {% include_relative lib/photoswipe/default-skin.css %}
+</style>
+<script defer src="/lib/photoswipe/photoswipe.min.js"></script>
+<script defer src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+<script defer src="/lib/photoswipe/init.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    initPhotoSwipeFromDOM('#gallery');
+  });
+</script>
