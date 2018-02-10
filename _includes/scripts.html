@@ -8,5 +8,8 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     initPhotoSwipeFromDOM('#gallery');
+    // Lazy Loader
+    {% include_relative lib/superlazy/superlazy.js %}
+    superlazy(({threshold: 1000, interval: 100}));
   });
 </script>
