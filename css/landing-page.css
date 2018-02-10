@@ -85,8 +85,9 @@ img {
   min-height: 100vh;
   text-align: center;
   color: #f8f8f8;
-  background-color: #0c060c;
+  background-color: #120718;
   background-image: url(../img/intro-bg.jpg);
+  background-image: image(../img/intro-bg.webp, ../img/intro-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
@@ -381,6 +382,10 @@ p.copyright {
 
 .navbar-brand {
   padding: 12px;
+}
+
+.navbar-brand img {
+  height: 40px;
 }
 
 .navbar {
