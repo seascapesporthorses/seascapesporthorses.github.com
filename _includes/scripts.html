@@ -11,5 +11,9 @@
     // Lazy Loader
     {% include_relative lib/superlazy/superlazy.js %}
     superlazy(({threshold: 1000, interval: 100}));
+    // Navbar toggle
+    document.getElementsByClassName('navbar-toggle')[0].addEventListener('click', function (event) {
+      document.querySelector(event.currentTarget.getAttribute('data-target')).classList.toggle('collapse');
+    });
   });
 </script>

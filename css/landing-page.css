@@ -182,6 +182,33 @@ img {
     width: 100%;
   }
 
+  .navbar-header {
+    background: #1E1E1E;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    background: #1E1E1E;
+    transform: translateY(0);
+    transition: transform 0.5s;
+    box-shadow: none;
+  }
+
+  .collapse {
+    display: block;
+    overflow: hidden;
+    transform: translateY(-100%);
+  }
+
+  .navbar-toggle {
+    margin: 13px;
+  }
+
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+  }
 }
 
 .network-name {
@@ -388,8 +415,9 @@ p.copyright {
   height: 40px;
 }
 
-.navbar {
+.navbar-header {
   min-height: 60px;
+  box-shadow: 0 1px #303030;
 }
 
 .gallery figure {
