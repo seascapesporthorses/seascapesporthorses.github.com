@@ -292,7 +292,7 @@ hr.intro-divider {
 .facility-image {
   width: 100%;
   display: inline-block;
-  padding: 0 6px 12px 6px;
+  padding: 12px;
 }
 
 .facility-image img {
