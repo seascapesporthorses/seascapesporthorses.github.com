@@ -69,6 +69,12 @@ h6 {
   font-size: 14px;
 }
 
+hr {
+  width: 60%;
+  border-top: 1px solid #a2cff7;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
 img {
   max-width: 100%;
 }
@@ -104,7 +110,7 @@ img {
   font-size: 5em;
 }
 
-.intro-divider {
+hr.intro-divider {
   width: 60%;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
@@ -118,6 +124,10 @@ img {
 .intro-link:hover {
   color: #a1a1a1;
   text-decoration: none;
+}
+
+.intro-social-buttons {
+  padding: 20px;
 }
 
 .intro-social-icon {

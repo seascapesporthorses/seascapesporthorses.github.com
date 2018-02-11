@@ -62,19 +62,19 @@
             <h3>Shannon Wilson</h3>
             <div class="col-lg-10 col-lg-offset-1">
               <hr class="intro-divider">
+              <ul class="list-inline intro-social-buttons">
+                {% for social in site.social %}
+                <li>
+                  <a href="{{ social.url }}" class="intro-link">
+                    <span class="intro-social-icon">
+                      {% include_relative img/icons/brands/{{ social.icon }}.svg %}
+                    </span>
+                    <span class="network-name">{{ social.title }}</span>
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
-            <ul class="list-inline intro-social-buttons">
-              {% for social in site.social %}
-              <li>
-                <a href="{{ social.url }}" class="intro-link">
-                  <span class="intro-social-icon">
-                    {% include_relative img/icons/brands/{{ social.icon }}.svg %}
-                  </span>
-                  <span class="network-name">{{ social.title }}</span>
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
           </div>
         </div>
       </div>
