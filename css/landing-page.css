@@ -50,10 +50,7 @@ h1 {
 
 h2 {
   width: 60%;
-  margin: auto;
-  padding: 30px 0 15px;
-  box-shadow: 0px 1.5px 0 #a2cff7;
-  margin-bottom: 45px;
+  margin: 30px auto 0;
 }
 
 h3 {
@@ -73,6 +70,7 @@ hr {
   width: 60%;
   border-top: 1px solid #a2cff7;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 10px auto 40px;
 }
 
 img {
@@ -114,6 +112,7 @@ hr.intro-divider {
   width: 60%;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 10px auto;
 }
 
 .intro-link {
