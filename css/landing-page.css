@@ -90,8 +90,8 @@ img {
   text-align: center;
   color: #f8f8f8;
   background-color: #120718;
-  background-image: url(../img/intro-bg.jpg);
-  background-image: image(../img/intro-bg.webp, ../img/intro-bg.jpg);
+  background-image: url("/img/intro-bg.jpg");
+  background-image: -webkit-image-set(url("/img/intro-bg.webp") 1x, url("/img/intro-bg.jpg") 1x);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
