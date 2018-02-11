@@ -238,6 +238,10 @@ hr.intro-divider {
   overflow: hidden
 }
 
+.content-section-light {
+  background-color: #f5f5f5;
+}
+
 .content-section-dark {
   background-color: #1e1e1e;
   color: white;
