@@ -101,7 +101,7 @@ img {
   text-align: center;
   color: #f8f8f8;
   background-color: #120718;
-  background-image: url("/img/intro-bg.jpg");
+  background-image: url("./img/intro-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
@@ -112,7 +112,7 @@ img {
 }
 
 .webp .intro-header {
-  background-image: url("/img/intro-bg.webp");
+  background-image: url("./img/intro-bg.webp");
 }
 
 .intro-message {
@@ -360,14 +360,14 @@ p.copyright {
   width: 100%;
   min-height: 400px;
   height: 50vh;
-  background-image: url("/img/map-fallback.jpg");
+  background-image: url("./img/map-fallback.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
 }
 
 .webp .map {
-  background-image: url("/img/map-fallback.webp");
+  background-image: url("./img/map-fallback.webp");
 }
 
 .sponsor a{
