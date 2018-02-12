@@ -1,6 +1,8 @@
+{% assign type = include.type %}
+{% unless type %}{% assign type = "jpg" %}{% endunless %}
 <script type="text/html" data-lazyload>
   <picture>
     <source srcset="{{ include.src }}.webp" type="image/webp">
-    <img src="{{ include.src }}.jpg" alt="{{ include.alt }}">
+    <img src="{{ include.src }}.{{ type or 'jpg'}}" alt="{{ include.alt }}">
   </picture>
 </script>
