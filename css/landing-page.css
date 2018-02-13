@@ -107,6 +107,10 @@ img {
   background-position: left center;
 }
 
+.intro-header-logo {
+  margin-bottom: 20px;
+}
+
 .webp .intro-header {
   background-image: url("/img/intro-bg.webp");
 }
