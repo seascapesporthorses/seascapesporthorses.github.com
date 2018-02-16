@@ -372,7 +372,6 @@ hr.intro-divider {
 
 footer {
   padding: 20px 0;
-  background-color: #f8f8f8;
 }
 
 p.copyright {
@@ -469,6 +468,14 @@ p.copyright {
   max-width: none;
   transform: translateX(-50%);
   margin-left: 50%;
+}
+
+.map {
+  display: block;
+  border:0;
+  width: 100%;
+  min-height: 400px;
+  height: 50vh;
 }
 
 .sponsor a{
