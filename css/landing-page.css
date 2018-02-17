@@ -480,6 +480,14 @@ p.copyright {
   width: 100%;
   min-height: 400px;
   height: 50vh;
+  background-image: url("/img/map-fallback.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.webp .map {
+  background-image: url("/img/map-fallback.webp");
 }
 
 .sponsor a{
