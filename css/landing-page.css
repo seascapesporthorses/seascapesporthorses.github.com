@@ -362,7 +362,7 @@ p.copyright {
   height: 50vh;
   background-image: url("/img/map-fallback.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
 }
 
