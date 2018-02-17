@@ -275,6 +275,10 @@ hr.intro-divider {
   border-bottom: 1px solid #e7e7e7;
 }
 
+.content-section-contact {
+  padding: 50px 0 120px;
+}
+
 .section-heading {
   margin-bottom: 30px;
 }
