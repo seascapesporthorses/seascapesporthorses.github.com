@@ -1,28 +1,48 @@
 <section id="contact">
-  <div class="content-section-b content-section-contact">
+  <div class="content-section">
     <div class="container">
+      <div class="row text-center">
+        <h2>Contact</h2>
+        <hr>
+      </div>
       <div class="row">
-        <div class="col-lg-10 col-lg-offset-1 col-sm-12">
+        <div class="col-lg-8 col-lg-offset-2 col-md-12 col-sm-12">
           <div class="clearfix"></div>
-          <h2 class="text-center">Contact</h2>
-          <hr>
-          <div class="col-lg-4 col-lg-offset-2 col-sm-12">
-            <h4>Email</h4>
-            <a class="lead" href="mailto:seascapesporthorses@gmail.com" itemprop="email">seascapesporthorses@gmail.com</a>
-            <h4>Phone</h4>
-            <a class="lead" href="tel:1-831-359-5588" itemprop="telephone">(831)359-5588</a>
-            </div>
-          <div class="col-lg-4 col-sm-12">
+          <div class="col-sm-6 lead">
+            <h4>Contact</h4>
+            <br>
+            <a target="_blank" href="mailto:seascapesporthorses@gmail.com" itemprop="email">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/envelope.svg %}
+              </span>
+              seascapesporthorses@gmail.com
+            </a>
+            <br>
+            <a target="_blank" href="tel:1-831-359-5588" itemprop="telephone" content="+18313595588">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/phone.svg %}
+              </span>
+              (831)359-5588
+            </a>
+          </div>
+          <div class="col-sm-6 lead">
             <h4>Location</h4>
-            <a class="lead" href="https://www.google.com/maps/place/10390+New+Ave,+Gilroy,+CA+95020" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-              <span itemprop="streetAddress">10390 New Ave</span>, <span itemprop="addressLocality">Gilroy</span>, <span itemprop="addressRegion">CA</span> <span itemprop="postalCode">95020</span>
+            <br>
+            <a target="_blank" href="https://goo.gl/maps/y5jXcNG67Ut" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/map-marker-alt.svg %}
+              </span>
+              <span itemprop="streetAddress">7460 Crews Road</span>, <span itemprop="addressLocality">Gilroy</span>, <span itemprop="addressRegion">CA</span> <span itemprop="postalCode">95020</span>
             </a>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <script type="text/html" data-lazyload>
-    <iframe class="map" src="https://snazzymaps.com/embed/48970" style="border:none;"></iframe>
-  </script>
+  <div class="map">
+    <template data-lazyload>
+      <div class="map-image"></div>
+      <iframe class="map-content" src="/lib/maps/index.html" style="border:none;"></iframe>
+    </template>
+  </div>
 </section>

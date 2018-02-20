@@ -1,8 +1,3 @@
-{% assign type = include.type %}
-{% unless type %}{% assign type = "jpg" %}{% endunless %}
-<script type="text/html" data-lazyload>
-  <picture>
-    <source srcset="{{ include.src }}.webp" type="image/webp">
-    <img src="{{ include.src }}.{{ type or 'jpg'}}" alt="{{ include.alt }}">
-  </picture>
-</script>
+<template data-lazyload {% if include.width %}data-width="{{include.width}}"{% endif %} {% if include.height %}data-height="{{include.height}}"{% endif %}>
+  {% include image.html src=include.src alt=include.alt type=include.type %}
+</template>

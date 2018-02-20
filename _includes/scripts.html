@@ -1,31 +1,77 @@
-<style>
-  {% include_relative lib/photoswipe/photoswipe.css %}
-  {% include_relative lib/photoswipe/default-skin.css %}
-</style>
 <script>
   {% include_relative /lib/photoswipe/photoswipe.min.js %}
   {% include_relative /lib/photoswipe/photoswipe-ui-default.min.js %}
   {% include_relative /lib/photoswipe/init.js %}
-  {% include_relative /js/smoothscroll.min.js %}
   document.addEventListener('DOMContentLoaded', function () {
     initPhotoSwipeFromDOM('#gallery');
     // Lazy Loader
     {% include_relative lib/superlazy/superlazy.js %}
     superlazy(({threshold: 1000, interval: 100}));
     // Navbar toggle
-    document.getElementsByClassName('navbar-toggle')[0].addEventListener('click', function (event) {
-      document.getElementById('navbar-dropdown').classList.toggle('collapse');
+    navToggle = document.getElementsByClassName('navbar-toggle')[0]
+    navToggle.addEventListener('click', function (event) {
+      navToggle.classList.toggle('toggled');
+      document.getElementById('navbar-dropdown').classList.toggle('expand');
     });
     // Close on scroll
     scrollLinks = document.getElementsByClassName('page-scroll');
     for (var index = 0; index < scrollLinks.length; index++) {
       scrollLinks[index].addEventListener('click', function (event) {
-        document.getElementById('navbar-dropdown').classList.add('collapse');
-        if (window.smoothScroll) {
-          event.preventDefault();
-          window.smoothScroll(document.querySelector(event.currentTarget.href));
-        }
+        document.getElementById('navbar-dropdown').classList.remove('expand');
       });
     }
+    // Track links
+    links = Array.prototype.slice.call(document.getElementsByTagName('a'));
+    links.forEach(function (link) {
+      link.addEventListener('click', function (event) {
+        eventCategory = 'Followed Link'
+        // Check if gallery link
+        if (/(\s|^)gallery-link(\s|$)/.test(link.className)) {
+          eventCategory = 'Gallery Link'
+        }
+        ga('send', 'event', {
+          eventCategory: eventCategory,
+          eventAction: 'click',
+          eventLabel: event.currentTarget.href,
+          transport: 'beacon'
+        });
+      });
+    });
+    // Change header on scroll
+    (function headerScroll (options) {
+      var ticking = false;
+      var last_call_time = 0;
+      var interval = options.interval || 0;
+      var threshold = options.threshold || 0;
+      var navs = Array.prototype.slice.call(document.getElementsByClassName('navbar-fade'));
+      var scrolled = false;
+      var check = function () {
+        if (window.scrollY <= threshold) {
+          navs.forEach(function (nav) {
+            nav.setAttribute("style", "opacity: " + (window.scrollY / threshold) + ";");
+          });
+          scrolled = false;
+        } else {
+          if (scrolled === false){
+            navs.forEach(function (nav) {
+              nav.setAttribute("style", "opacity: 1;");
+            });
+          }
+          scrolled = true;
+        }
+      }
+      var scroll_listener = function (event) {
+        if (!ticking && Date.now() - last_call_time > interval) {
+          ticking = true;
+          (window.requestAnimationFrame || window.setTimeout)(function() {
+            check();
+            last_call_time = Date.now();
+            ticking = false;
+          });
+        }
+      }
+      window.addEventListener('scroll', scroll_listener);
+      check();
+    })({interval: 20, threshold: 200});
   });
 </script>

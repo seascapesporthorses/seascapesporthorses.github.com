@@ -3,12 +3,12 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: 'Seascape Sport Horses - Gilroy, CA - Hunter/Jumper Training & Lessons'
+title: Seascape Sport Horses - Gilroy, CA - Hunter/Jumper Training & Lessons
 email: seascapesporthorses@gmail.com
 author: Charis Dankert & Shannon Wilson
 description: >
-  Seascape Sport Horses specializes in importing high-end hunter, jumper, and equitation horses for the Santa Cruz area. Offering elite horseback riding lessons for all levels. Located in Bonny Doon CA.
-copyright: 'Copyright &copy; 2017 Seascape Sport Horses. All Rights Reserved.'
+  Seascape Sport Horses specializes in importing high-end hunter, jumper, and equitation horses for Gilroy, Morgan Hill, San Jose, and the Bay Area area. Offering elite horseback riding lessons for all levels. Located in Gilroy CA.
+copyright: Copyright &copy; 2020 Seascape Sport Horses
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -17,18 +17,3 @@ copyright: 'Copyright &copy; 2017 Seascape Sport Horses. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: facebook
-    url: https://www.facebook.com/Seascape-Sport-Horses-1174945482517873/
-    icon: facebook-f
-  - title: instagram
-    url: https://www.instagram.com/seascapesporthorses/
-    icon: instagram
-  - title: youtube
-    url: https://www.youtube.com/channel/UC4p-58EHq0rpY6Qjzg5GPUw
-    icon: youtube

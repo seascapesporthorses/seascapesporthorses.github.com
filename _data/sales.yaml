@@ -1,0 +1,67 @@
+- name: Hotline Bling
+  image: ./img/horses/hotline-bling-charis-woodside-jumping-small
+  description: Super flashy imported Polish Warmblood Gelding. Tons of show experience on the A circuit. Lovely trot and jump. Shown in the 3ft Greens this past show season. Scope for 3’6"+. Will make an amazing Eq/Medal horse and will excel in the hunter derbies. Junior/Amateur safe.
+  link: https://www.proequest.com/horse/hotline-bling
+  videos:
+    - url: https://www.youtube.com/watch?v=rUZ_2I9yFRE
+  width: 420
+  height: 300
+- name: Mimosa
+  image: ./img/horses/mimosa-jumping-small
+  description: Mimosa is an incredibly brave and honest mare that will jump from absolutely anywhere. Imported from France, with experience up to 1.30m. Currently showing with her amateur owner in the 1.10-1.15. Ready to teach someone in the jumpers up to the 1.20s. Can double in the jumper medals as well. Great flatwork, very comfortable and a super fun ride! Not marish at all, very easy to have around the barn.
+  link: https://www.proequest.com/horse/mimosa
+  videos:
+    - url: https://www.youtube.com/watch?v=f2GF-Yh1bm0
+      description: 1.10m Class With Amateur
+    - url: https://www.youtube.com/watch?v=hCsKF6rNnNs
+      description: Meet Mimosa
+  width: 300
+  height: 262
+# - name: Pop Style
+#   image: ./img/horses/pop-style-shannon-under-saddle-derby-woodside-small
+#   description: Multiple Championships in the baby green divisions at Woodside, Sacramento International and Paso Robles. Has also won multiple large open training hunter classes. Shown by a beginner in the long stirrup at Paso Robles with great ribbons. Coming 5 year old, Pop Style, AKA Bowie, was imported from Holland in June 2016. Bowie is a beautiful hunter prospect by acclaimed stallion Bustique. He is currently 16 hands but will continue to grow. Coursing 3ft with flying changes. Incredibly calm and easygoing personality and not spooky. Very safe and forgiving for a junior or amateur! He will have an amazing future in the hunters and will make and excellent Junior Hunter/Derby Horse. Pop Style's price will increase with training and show experience.
+#   link: https://www.proequest.com/horse/pop-style
+#   videos:
+#     - url: https://www.youtube.com/watch?v=4Yxfk26hXsE
+#   width: 300
+#   height: 300
+- name: For C It
+  image: ./img/horses/for-c-it
+  description: <strong>SOLD!</strong> Congratulations to Carolyn Costa and trainer Joe Thorpe at Sovereign Place!
+  width: 300
+  height: 300
+- name: Armani
+  image: ./img/horses/armani-headshot-small
+  description: <strong>SOLD!</strong>
+  width: 300
+  height: 300
+- name: SkyFall
+  image: ./img/horses/sky-fall-jumping
+  description: <strong>SOLD!</strong> Congratulations to Lauren Dreyer and trainers Hillary and Robert Ridland!
+  width: 420
+  height: 300
+- name: Gentleman Jack
+  image: ./img/horses/gentleman-jack-sarah-small
+  description: <strong>SOLD!</strong> Congratulations Sarah Maples. We are so excited to welcome such a special and talented young horse to America! We can't wait to see you both shine in the Hunter and Equitation divisions this year!
+  width: 300
+  height: 342
+- name: Fortune Cookie
+  image: ./img/horses/fortune-cookie-small
+  description: <strong>SOLD!</strong> Congratulations Katie and Judy Mannina.
+  width: 368
+  height: 300
+- name: Lucca
+  image: ./img/horses/lucca-jumping-small
+  description: <strong>SOLD!</strong> Congratulations Jill Slater and trainer Missy Froley-Sereni. We are so excited to watch you show this special horse!
+  width: 421
+  height: 300
+- name: Amaretto
+  image: ./img/horses/amaretto-sold-pic-small
+  description: <strong>SOLD!</strong> Congratulations Audra Robinson. Best of luck to you both in your future together!
+  width: 300
+  height: 300
+- name: Flashing Lights
+  image: ./img/horses/flashing-lights-portrait-small
+  description: <strong>SOLD!</strong> Congratulations Nancy Mynott and trainer Carolyn Biava. Best of luck in the Young Hunter division!
+  width: 200
+  height: 300
