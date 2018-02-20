@@ -327,6 +327,7 @@ p.copyright {
 }
 
 .gallery figure {
+  background-color: #e7e7e7;
   display: inline-block;
   margin: 5px;
   width: 150px;
