@@ -1,0 +1,3 @@
+{% assign type = include.type %}
+{% unless type %}{% assign type = "jpg" %}{% endunless %}
+<img src="{{ include.src }}.{{ type }}" alt="{{ include.alt }}">

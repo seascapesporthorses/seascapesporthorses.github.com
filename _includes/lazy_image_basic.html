@@ -1,5 +1,3 @@
-{% assign type = include.type %}
-{% unless type %}{% assign type = "jpg" %}{% endunless %}
 <script type="text/html" data-lazyload>
-  <img src="{{ include.src }}.{{ type }}" alt="{{ include.alt }}">
+  {% include image_basic.html src=include.src alt=include.alt type=include.type %}
 </script>
