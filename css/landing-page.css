@@ -34,6 +34,13 @@ h1,
 h2,
 h3 {
   text-transform: uppercase;
+  line-height: 30px;
+}
+
+h4,
+h5,
+h6 {
+  line-height: 24px;
 }
 
 h1 {
@@ -419,5 +426,10 @@ p.copyright {
   }
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
+  }
+  .show-item p,
+  .show-item h5 {
+    font-size: 14px;
+    line-height: 21px;
   }
 }
