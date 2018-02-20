@@ -337,6 +337,7 @@ p.copyright {
   height: 150px;
   max-width: none;
   transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
   margin-left: 50%;
 }
 
@@ -412,6 +413,7 @@ p.copyright {
     width: 100%;
     background: #1E1E1E;
     transform: translateY(0);
+    -webkit-transform: translateY(0);
     transition: transform 0.5s;
     box-shadow: none;
   }
@@ -419,6 +421,7 @@ p.copyright {
     display: block;
     overflow: hidden;
     transform: translateY(-100%);
+    -webkit-transform: translateY(-100%);
   }
   .navbar-toggle {
     margin: 13px;
