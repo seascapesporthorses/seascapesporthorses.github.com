@@ -295,7 +295,7 @@ p.copyright {
 }
 
 .nav>li>a {
-  padding: 20px;
+  padding: 20px 10px;
   font-size: 13px;
   font-family: 'Merriweather', serif;
   letter-spacing: 0.8px;
