@@ -412,16 +412,16 @@ p.copyright {
     z-index: -1;
     width: 100%;
     background: #1E1E1E;
-    transform: translateY(0);
-    -webkit-transform: translateY(0);
-    transition: transform 0.5s;
-    box-shadow: none;
-  }
-  .collapse {
-    display: block;
-    overflow: hidden;
     transform: translateY(-100%);
     -webkit-transform: translateY(-100%);
+    transition: transform 0.25s;
+    box-shadow: none;
+  }
+  .expand {
+    display: block;
+    overflow: hidden;
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
   }
   .navbar-toggle {
     margin: 13px;

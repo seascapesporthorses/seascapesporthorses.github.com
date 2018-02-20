@@ -14,13 +14,13 @@
     superlazy(({threshold: 1000, interval: 100}));
     // Navbar toggle
     document.getElementsByClassName('navbar-toggle')[0].addEventListener('click', function (event) {
-      document.getElementById('navbar-dropdown').classList.toggle('collapse');
+      document.getElementById('navbar-dropdown').classList.toggle('expand');
     });
     // Close on scroll
     scrollLinks = document.getElementsByClassName('page-scroll');
     for (var index = 0; index < scrollLinks.length; index++) {
       scrollLinks[index].addEventListener('click', function (event) {
-        document.getElementById('navbar-dropdown').classList.add('collapse');
+        document.getElementById('navbar-dropdown').classList.add('expand');
         if (window.smoothScroll) {
           event.preventDefault();
           window.smoothScroll(document.querySelector(event.currentTarget.href));
