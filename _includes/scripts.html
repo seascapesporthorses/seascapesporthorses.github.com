@@ -27,5 +27,37 @@
         }
       });
     }
+    // Change header on scroll
+    (function headerScroll (options) {
+      var ticking = false;
+      var last_call_time = 0;
+      var interval = options.interval || 0;
+      var threshold = options.threshold || 0;
+      var nav = document.getElementById('nav-background');
+      var scrolled = false;
+      var check = function () {
+        if (window.scrollY <= threshold) {
+          nav.style = "opacity: " + (window.scrollY / threshold) + ";"
+          scrolled = false;
+        } else {
+          if (scrolled === false){
+            nav.style = "opacity: 1;"
+          }
+          scrolled = true;
+        }
+      }
+      var scroll_listener = function (event) {
+        if (!ticking && Date.now() - last_call_time > interval) {
+          ticking = true;
+          window.requestAnimationFrame(function() {
+            check();
+            last_call_time = Date.now();
+            ticking = false;
+          });
+        }
+      }
+      window.addEventListener('scroll', scroll_listener);
+      check();
+    })({interval: 20, threshold: 300});
   });
 </script>
