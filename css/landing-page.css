@@ -330,6 +330,14 @@ p.copyright {
   min-height: 60px;
 }
 
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: initial;
+}
+
+.navbar-default .navbar-toggle.toggled, .navbar-default .navbar-toggle.toggled:hover, .navbar-default .navbar-toggle.toggled:focus {
+  background-color: #ddd;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
