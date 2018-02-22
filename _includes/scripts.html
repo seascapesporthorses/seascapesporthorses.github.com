@@ -22,10 +22,10 @@
     scrollLinks = document.getElementsByClassName('page-scroll');
     for (var index = 0; index < scrollLinks.length; index++) {
       scrollLinks[index].addEventListener('click', function (event) {
-        document.getElementById('navbar-dropdown').classList.add('expand');
+        document.getElementById('navbar-dropdown').classList.remove('expand');
         if (window.smoothScroll) {
           event.preventDefault();
-          window.smoothScroll(document.querySelector(event.currentTarget.href));
+          window.smoothScroll(document.querySelector(event.currentTarget.hash));
         }
       });
     }
