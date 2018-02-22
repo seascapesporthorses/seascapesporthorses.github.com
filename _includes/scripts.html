@@ -35,15 +35,19 @@
       var last_call_time = 0;
       var interval = options.interval || 0;
       var threshold = options.threshold || 0;
-      var nav = document.getElementById('nav-background');
+      var navs = Array.prototype.slice.call(document.getElementsByClassName('navbar-fade'));
       var scrolled = false;
       var check = function () {
         if (window.scrollY <= threshold) {
-          nav.style = "opacity: " + (window.scrollY / threshold) + ";"
+          navs.forEach(function (nav) {
+            nav.style = "opacity: " + (window.scrollY / threshold) + ";"
+          });
           scrolled = false;
         } else {
           if (scrolled === false){
-            nav.style = "opacity: 1;"
+            navs.forEach(function (nav) {
+              nav.style = "opacity: 1;"
+            });
           }
           scrolled = true;
         }
