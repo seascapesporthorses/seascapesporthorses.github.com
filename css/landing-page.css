@@ -260,8 +260,13 @@ footer {
   padding: 20px 0;
 }
 
-p.copyright {
+.copyright {
   margin: 15px 0 0;
+  font-size: 15px;
+}
+
+.copyright-small {
+  font-size: 12px;
 }
 
 .navbar-default {
