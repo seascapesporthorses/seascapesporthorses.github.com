@@ -74,3 +74,7 @@
   size: 2047x2048
   thumbnail: ./img/gallery/image19-thumb
   caption: Image caption
+- source: ./img/gallery/image20.jpg"
+  size: 1080x1080
+  thumbnail: ./img/gallery/image20-thumb
+  caption: Image caption
