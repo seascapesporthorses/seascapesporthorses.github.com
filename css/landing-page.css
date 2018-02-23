@@ -66,7 +66,8 @@ h6 {
 }
 
 hr {
-  width: 60%;
+  width: 50%;
+  min-width: 300px;
   border-top: 1px solid #a2cff7;
   margin: 10px auto 40px;
 }
@@ -77,6 +78,7 @@ img {
 
 .lead {
   font-size: 16px;
+  margin-bottom: 30px;
 }
 
 .intro-header {
