@@ -13,11 +13,11 @@ html {
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 28px;
-  font-weight: 300;
-  color: #3e3e3e;
+  line-height: 30px;
+  font-weight: 400;
+  color: #2e2e2e;
 }
 
 h1,
@@ -28,20 +28,15 @@ h5,
 h6 {
   font-family: 'Merriweather', serif;
   font-weight: 400;
-  margin: 0 auto
+  margin: 0 auto;
+  line-height: inherit;
+  font-size: inherit;
 }
 
 h1,
 h2,
 h3 {
   text-transform: uppercase;
-  line-height: 30px;
-}
-
-h4,
-h5,
-h6 {
-  line-height: 24px;
 }
 
 h1 {
@@ -57,12 +52,8 @@ h3 {
   padding: 10px 0 20px;
 }
 
-h5 {
-  font-size: 16px;
-}
-
-h6 {
-  font-size: 14px;
+p {
+  margin-bottom: 30px;
 }
 
 hr {
@@ -77,7 +68,7 @@ img {
 }
 
 .lead {
-  font-size: 16px;
+  font-size: inherit;
   margin-bottom: 30px;
 }
 
@@ -108,11 +99,6 @@ img {
   position: relative;
   padding-top: 200px;
   padding-bottom: 200px;
-}
-
-.intro-message > h1 {
-  margin: 0;
-  font-size: 5em;
 }
 
 hr.intro-divider {
@@ -177,7 +163,7 @@ hr.intro-divider {
 
 .network-name {
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: inherit;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -327,7 +313,7 @@ footer {
 
 .nav>li>a {
   padding: 0 10px;
-  font-size: 13px;
+  font-size: 12px;
   font-family: 'Merriweather', serif;
   letter-spacing: 0.8px;
   text-transform: uppercase;
@@ -410,7 +396,7 @@ footer {
 @media(max-width:991px) {
   .nav>li>a {
     padding: 0 6px;
-    font-size: 11px;
+    font-size: 12px;
   }
   .nav>li>a.nav-bar-social-link {
     padding: 0 4px;
@@ -444,10 +430,6 @@ footer {
   }
   .intro-message {
     padding-bottom: 15%;
-  }
-
-  .intro-message > h1 {
-    font-size: 3em;
   }
 
   ul.intro-social-buttons > li {
@@ -502,7 +484,7 @@ footer {
   }
   .show-item p,
   .show-item h5 {
-    font-size: 14px;
-    line-height: 21px;
+    font-size: 12px;
+    line-height: 20px;
   }
 }
