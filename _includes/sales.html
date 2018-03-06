@@ -12,7 +12,9 @@
           <div class="caption col-md-9">
             <h3>{{ sale.name }}</h3>
             <p>{{ sale.description }}</p>
+            {% if sale.link %}
             <p><a href="{{ sale.link }}" target="_blank" rel="noopener" class="btn btn-primary" role="button">See {{ sale.name }}'s ProEquest Listing</a></p>
+            {% endif %}
           </div>
         </div>
       </div>
