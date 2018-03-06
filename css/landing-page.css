@@ -352,12 +352,13 @@ footer {
 }
 
 .gallery figure {
-  background-color: #e7e7e7;
+  background-color: #2e2e2e;
   display: inline-block;
   margin: 5px;
   width: 150px;
   height: 150px;
   overflow: hidden;
+  cursor: pointer;
 }
 
 .gallery img {
