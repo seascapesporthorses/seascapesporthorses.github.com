@@ -264,6 +264,15 @@ footer {
   line-height: 20px
 }
 
+.copyright-small a {
+  color: inherit;
+}
+
+.copyright-small a:hover,
+.copyright-small a:focus {
+  text-decoration: underline;
+}
+
 .navbar-default {
   color: white;
   border-color: transparent;
