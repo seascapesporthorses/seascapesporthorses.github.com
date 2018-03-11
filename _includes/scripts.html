@@ -6,7 +6,6 @@
   {% include_relative /lib/photoswipe/photoswipe.min.js %}
   {% include_relative /lib/photoswipe/photoswipe-ui-default.min.js %}
   {% include_relative /lib/photoswipe/init.js %}
-  {% include_relative /js/smoothscroll.min.js %}
   document.addEventListener('DOMContentLoaded', function () {
     initPhotoSwipeFromDOM('#gallery');
     // Lazy Loader
@@ -23,10 +22,6 @@
     for (var index = 0; index < scrollLinks.length; index++) {
       scrollLinks[index].addEventListener('click', function (event) {
         document.getElementById('navbar-dropdown').classList.remove('expand');
-        if (window.smoothScroll) {
-          event.preventDefault();
-          window.smoothScroll(document.querySelector(event.currentTarget.hash));
-        }
       });
     }
     // Change header on scroll
