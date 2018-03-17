@@ -73,18 +73,33 @@ img {
 }
 
 .intro-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 100vh;
+  position: relative;
   text-align: center;
   color: #f8f8f8;
+}
+
+.intro-header-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
   background-color: #120718;
   background-image: url("./img/intro-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
   box-shadow: 0 0 400px 50px rgba(0,0,0,0.9) inset;
+  -webkit-filter: brightness(0.8);
+  filter: brightness(0.9);
+}
+
+.intro-header-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 .intro-header-logo {
@@ -97,8 +112,7 @@ img {
 
 .intro-message {
   position: relative;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  overflow: hidden;
 }
 
 hr.intro-divider {
@@ -139,7 +153,6 @@ hr.intro-divider {
 }
 
 .filter {
-  position: relative;
   -webkit-filter: contrast(140%) sepia(50%);
   filter: contrast(140%) sepia(50%);
 }
