@@ -156,7 +156,7 @@ hr.intro-divider {
   padding: 20px;
   background-color: transparent;
   border-color: white;
-  margin: 0 20px;
+  margin: 0 10px 10px;
   font-size: 18px;
   text-transform: uppercase;
 }
@@ -481,6 +481,16 @@ footer {
 
   .intro-divider {
     width: 100%;
+  }
+
+  .intro-button-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .intro-button.btn-primary {
+    flex-basis: 480px;
+    flex-grow: 0;
   }
 
   .navbar-header {
