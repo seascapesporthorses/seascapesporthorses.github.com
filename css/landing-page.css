@@ -147,6 +147,20 @@ hr.intro-divider {
   fill: white;
 }
 
+.intro-button-container {
+  display: flex;
+}
+
+.intro-button.btn-primary {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: transparent;
+  border-color: white;
+  margin: 0 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
 .nav-bar-social-link:hover  .intro-social-icon svg,
 .intro-link:hover .intro-social-icon svg {
   fill: #a1a1a1;
