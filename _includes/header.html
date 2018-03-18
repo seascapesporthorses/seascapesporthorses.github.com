@@ -57,35 +57,31 @@
     <div class="intro-header-background">
     </div>
     <div class="intro-header-content container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="intro-message">
-            <h1 itemprop="name">{{ page.title }}</h1>
-            <div class="intro-header-logo">
-              {% include image.html src="./img/seascape-sport-horses-site-logo" alt="Seascape Sport Horses" type="png" %}
-            </div>
-            <h3>Charis Dankert</h3>
-            <h3>Shannon Wilson</h3>
-            <div class="col-lg-10 col-lg-offset-1">
-              <hr class="intro-divider">
-              <ul class="list-inline intro-social-buttons">
-                {% for social in site.data.social %}
-                <li>
-                  <a href="{{ social.url }}" class="intro-link">
-                    <span class="intro-social-icon">
-                      {% include_relative img/icons/brands/{{ social.icon }}.svg %}
-                    </span>
-                    <span class="network-name">{{ social.title }}</span>
-                  </a>
-                </li>
-                {% endfor %}
-              </ul>
-              <div class="intro-button-container">
-                <a class="btn btn-primary intro-button" target="_blank" href="mailto:seascapesporthorses@gmail.com">Email</a>
-                <a class="btn btn-primary intro-button" target="_blank" href="tel:1-831-359-5588">Call (831)359-5588</a>
-                <a class="btn btn-primary intro-button" target="_blank" href="https://www.google.com/maps/place/10390+New+Ave,+Gilroy,+CA+95020">Directions</a>
-              </div>
-            </div>
+      <div class="intro-message">
+        <h1 itemprop="name">{{ page.title }}</h1>
+        <div class="intro-header-logo">
+          {% include image.html src="./img/seascape-sport-horses-site-logo" alt="Seascape Sport Horses" type="png" %}
+        </div>
+        <h3>Charis Dankert</h3>
+        <h3>Shannon Wilson</h3>
+        <div class="col-lg-10 col-lg-offset-1">
+          <hr class="intro-divider">
+          <ul class="list-inline intro-social-buttons">
+            {% for social in site.data.social %}
+            <li>
+              <a href="{{ social.url }}" class="intro-link">
+                <span class="intro-social-icon">
+                  {% include_relative img/icons/brands/{{ social.icon }}.svg %}
+                </span>
+                <span class="network-name">{{ social.title }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          <div class="intro-button-container">
+            <a class="btn btn-primary intro-button" target="_blank" href="mailto:seascapesporthorses@gmail.com">Email</a>
+            <a class="btn btn-primary intro-button" target="_blank" href="tel:1-831-359-5588">Call (831)359-5588</a>
+            <a class="btn btn-primary intro-button" target="_blank" href="https://www.google.com/maps/place/10390+New+Ave,+Gilroy,+CA+95020">Directions</a>
           </div>
         </div>
       </div>
