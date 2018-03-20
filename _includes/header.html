@@ -38,7 +38,7 @@
         </li>
         <li>
           {% for social in site.data.social %}
-          <a class="nav-bar-social-link" href="{{ social.url }}">
+          <a target="_blank" class="nav-bar-social-link" href="{{ social.url }}">
             <span class="intro-social-icon">
               {% include_relative img/icons/brands/{{ social.icon }}.svg %}
             </span>
@@ -69,7 +69,7 @@
           <ul class="list-inline intro-social-buttons">
             {% for social in site.data.social %}
             <li>
-              <a href="{{ social.url }}" class="intro-link">
+              <a target="_blank" href="{{ social.url }}" class="intro-link">
                 <span class="intro-social-icon">
                   {% include_relative img/icons/brands/{{ social.icon }}.svg %}
                 </span>
