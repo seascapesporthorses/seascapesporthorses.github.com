@@ -145,7 +145,7 @@ hr.intro-divider {
 
 .intro-social-icon svg {
   height: 15px;
-  fill: white;
+  fill: currentColor;
 }
 
 .intro-button-container {
