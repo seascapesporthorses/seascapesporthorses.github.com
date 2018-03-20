@@ -79,9 +79,24 @@
             {% endfor %}
           </ul>
           <div class="intro-button-container">
-            <a class="btn btn-primary intro-button" target="_blank" href="mailto:seascapesporthorses@gmail.com">Email</a>
-            <a class="btn btn-primary intro-button" target="_blank" href="tel:1-831-359-5588">Call (831)359-5588</a>
-            <a class="btn btn-primary intro-button" target="_blank" href="https://www.google.com/maps/place/10390+New+Ave,+Gilroy,+CA+95020">Directions</a>
+            <a class="btn btn-primary intro-button" target="_blank" href="mailto:seascapesporthorses@gmail.com">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/envelope.svg %}
+              </span>
+              Email
+            </a>
+            <a class="btn btn-primary intro-button" target="_blank" href="tel:1-831-359-5588">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/phone.svg %}
+              </span>
+              Call (831)359-5588
+            </a>
+            <a class="btn btn-primary intro-button" target="_blank" href="https://www.google.com/maps/place/10390+New+Ave,+Gilroy,+CA+95020">
+              <span class="intro-social-icon">
+                {% include_relative img/icons/solid/map-marker-alt.svg %}
+              </span>
+              Directions
+            </a>
           </div>
         </div>
       </div>
