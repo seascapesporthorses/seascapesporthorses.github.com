@@ -134,7 +134,8 @@ hr.intro-divider {
 }
 
 .intro-social-buttons {
-  padding: 20px;
+  padding: 15px;
+  margin-bottom: 0;
 }
 
 .intro-social-icon {
@@ -472,8 +473,7 @@ footer {
 
   ul.intro-social-buttons > li {
     display: block;
-    margin-bottom: 20px;
-    padding: 0;
+    padding: 3px;
   }
 
   ul.intro-social-buttons > li:last-child {
@@ -484,14 +484,21 @@ footer {
     width: 100%;
   }
 
+  .intro-link {
+    font-size: 14px;
+  }
+
   .intro-button-container {
-    flex-wrap: wrap;
     justify-content: center;
   }
 
   .intro-button.btn-primary {
-    flex-basis: 480px;
+    flex-basis: 33%;
     flex-grow: 0;
+    flex-shrink: 0;
+    padding: 10px;
+    margin: 0 5px 10px;
+    font-size: 14px;
   }
 
   .navbar-header {
