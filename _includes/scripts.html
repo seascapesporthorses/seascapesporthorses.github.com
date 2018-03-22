@@ -24,6 +24,18 @@
         document.getElementById('navbar-dropdown').classList.remove('expand');
       });
     }
+    // Track links
+    links = Array.prototype.slice.call(document.getElementsByTagName('a'));
+    links.forEach(function (link) {
+      link.addEventListener('click', function (event) {
+        ga('send', 'event', {
+          eventCategory: 'Followed Link',
+          eventAction: 'click',
+          eventLabel: event.target.href,
+          transport: 'beacon'
+        });
+      });
+    });
     // Change header on scroll
     (function headerScroll (options) {
       var ticking = false;
