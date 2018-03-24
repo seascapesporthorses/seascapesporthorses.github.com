@@ -12,9 +12,20 @@
           <div class="caption col-md-9">
             <h3>{{ sale.name }}</h3>
             <p>{{ sale.description }}</p>
-            {% if sale.link %}
-            <p><a href="{{ sale.link }}" target="_blank" rel="noopener" class="btn btn-primary" role="button">See {{ sale.name }}'s ProEquest Listing</a></p>
-            {% endif %}
+            <p>
+              {% if sale.link %}
+              <a href="{{ sale.link }}" target="_blank" rel="noopener" class="btn btn-primary sale-link" role="button">
+                {% include_relative img/icons/solid/globe.svg %}
+                See {{ sale.name }}'s ProEquest Listing
+              </a>
+              {% endif %}
+              {% if sale.video %}
+              <a href="{{ sale.video }}" target="_blank" rel="noopener" class="btn btn-primary sale-link" role="button">
+                {% include_relative img/icons/brands/youtube.svg %}
+                See {{ sale.name }}'s Video
+              </a>
+              {% endif %}
+            </p>
           </div>
         </div>
       </div>

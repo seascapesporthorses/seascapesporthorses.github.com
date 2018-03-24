@@ -265,14 +265,26 @@ hr.intro-divider {
   padding-bottom: 15px;
 }
 
+.btn svg {
+  height: 15px;
+  fill: currentColor;
+  display: inline-block;
+  vertical-align: text-top;
+  margin-right: 2px;
+}
+
 .btn-primary {
-  background-color: #a2cff7;
+  background-color: #91bfe8;
   border-color: transparent;
 }
 
 .btn-primary:hover {
   background-color: #81b3de;
   border-color: transparent;
+}
+
+.sale-link {
+  margin-bottom: 8px;
 }
 
 footer {
@@ -541,5 +553,8 @@ footer {
   .show-item h5 {
     font-size: 12px;
     line-height: 20px;
+  }
+  .sale-link {
+    width: 100%;
   }
 }
