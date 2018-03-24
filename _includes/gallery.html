@@ -8,7 +8,7 @@
         <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
           {% for image in site.data.gallery %}
           <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-            <a href="{{ image.source }}.jpg" itemprop="contentUrl" data-size="{{ image.size }}">
+            <a class="gallery-link" href="{{ image.source }}.jpg" itemprop="contentUrl" data-size="{{ image.size }}">
               {% include lazy_image_basic.html src=image.thumbnail itemprop="thumbnail" alt=image.caption %}
             </a>
             <!-- <figcaption itemprop="caption description">{{ image.caption }}</figcaption> -->

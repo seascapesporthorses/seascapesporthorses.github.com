@@ -28,8 +28,13 @@
     links = Array.prototype.slice.call(document.getElementsByTagName('a'));
     links.forEach(function (link) {
       link.addEventListener('click', function (event) {
+        eventCategory = 'Followed Link'
+        // Check if gallery link
+        if (/(\s|^)gallery-link(\s|$)/.test(link.className)) {
+          eventCategory = 'Gallery Link'
+        }
         ga('send', 'event', {
-          eventCategory: 'Followed Link',
+          eventCategory: eventCategory,
           eventAction: 'click',
           eventLabel: event.target.href,
           transport: 'beacon'
