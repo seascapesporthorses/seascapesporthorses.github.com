@@ -36,7 +36,7 @@
         ga('send', 'event', {
           eventCategory: eventCategory,
           eventAction: 'click',
-          eventLabel: event.target.href,
+          eventLabel: event.currentTarget.href,
           transport: 'beacon'
         });
       });
