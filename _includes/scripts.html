@@ -52,13 +52,13 @@
       var check = function () {
         if (window.scrollY <= threshold) {
           navs.forEach(function (nav) {
-            nav.style = "opacity: " + (window.scrollY / threshold) + ";"
+            nav.setAttribute("style", "opacity: " + (window.scrollY / threshold) + ";");
           });
           scrolled = false;
         } else {
           if (scrolled === false){
             navs.forEach(function (nav) {
-              nav.style = "opacity: 1;"
+              nav.setAttribute("style", "opacity: 1;");
             });
           }
           scrolled = true;
