@@ -170,7 +170,7 @@ hr.intro-divider {
   padding: 20px;
   background-color: transparent;
   border-color: white;
-  margin: 0 10px 10px;
+  margin: 10px;
   font-size: 18px;
   text-transform: uppercase;
 }
@@ -541,7 +541,7 @@ footer {
     flex-grow: 0;
     flex-shrink: 0;
     padding: 10px;
-    margin: 0 5px 10px;
+    margin: 10px 5px;
     font-size: 14px;
   }
 
