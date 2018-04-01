@@ -2,5 +2,5 @@
 {% unless type %}{% assign type = "jpg" %}{% endunless %}
 <picture>
   <source srcset="{{ include.src }}.webp" type="image/webp">
-  <img src="{{ include.src }}.{{ type }}" alt="{{ include.alt }}">
+  <img src="{{ include.src }}.{{ type }}" {% if include.alt %}alt="{{ include.alt }}"{% endif %} {% if include.width %}width="{{include.width}}"{% endif %} {% if include.height %}height="{{include.height}}"{% endif %}>
 </picture>
