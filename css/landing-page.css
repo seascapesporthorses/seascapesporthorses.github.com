@@ -463,6 +463,11 @@ footer {
   background-position: center;
 }
 
+.map-content {
+  width: 100%;
+  height: 100%;
+}
+
 .webp .map {
   background-image: url("./img/map-fallback.webp");
 }
