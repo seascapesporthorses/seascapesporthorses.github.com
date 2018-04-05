@@ -103,6 +103,10 @@ img {
   filter: brightness(0.9);
 }
 
+.webp .intro-header-background {
+  background-image: url("./img/intro-bg.webp");
+}
+
 .intro-header-background-party {
   background-image: url("./img/intro-bg-party.jpg");
 }
@@ -117,10 +121,6 @@ img {
 
 .intro-header-logo {
   margin-bottom: 20px;
-}
-
-.webp .intro-header-background {
-  background-image: url("./img/intro-bg.webp");
 }
 
 .intro-message {
@@ -453,14 +453,11 @@ footer {
 
 .map {
   display: block;
+  position: relative;
   border:0;
   width: 100%;
   min-height: 400px;
   height: 50vh;
-  background-image: url("./img/map-fallback.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-position: center;
 }
 
 .map-content {
@@ -468,7 +465,20 @@ footer {
   height: 100%;
 }
 
-.webp .map {
+.map-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background-image: url("./img/map-fallback.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+}
+
+.webp .map-image {
   background-image: url("./img/map-fallback.webp");
 }
 
