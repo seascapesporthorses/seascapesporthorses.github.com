@@ -98,3 +98,83 @@
   size: 640x640
   thumbnail: ./img/gallery/image27-thumb
   caption: Image caption
+- source: ./img/gallery/image28
+  size: 720x960
+  thumbnail: ./img/gallery/image28-thumb
+  caption: Image caption
+- source: ./img/gallery/image29
+  size: 960x626
+  thumbnail: ./img/gallery/image29-thumb
+  caption: Image caption
+- source: ./img/gallery/image30
+  size: 768x960
+  thumbnail: ./img/gallery/image30-thumb
+  caption: Image caption
+- source: ./img/gallery/image31
+  size: 960x960
+  thumbnail: ./img/gallery/image31-thumb
+  caption: Image caption
+- source: ./img/gallery/image32
+  size: 958x959
+  thumbnail: ./img/gallery/image32-thumb
+  caption: Image caption
+- source: ./img/gallery/image33
+  size: 960x684
+  thumbnail: ./img/gallery/image33-thumb
+  caption: Image caption
+- source: ./img/gallery/image34
+  size: 960x686
+  thumbnail: ./img/gallery/image34-thumb
+  caption: Image caption
+- source: ./img/gallery/image35
+  size: 960x686
+  thumbnail: ./img/gallery/image35-thumb
+  caption: Image caption
+- source: ./img/gallery/image36
+  size: 908x960
+  thumbnail: ./img/gallery/image36-thumb
+  caption: Image caption
+- source: ./img/gallery/image37
+  size: 960x914
+  thumbnail: ./img/gallery/image37-thumb
+  caption: Image caption
+- source: ./img/gallery/image38
+  size: 860x960
+  thumbnail: ./img/gallery/image38-thumb
+  caption: Image caption
+- source: ./img/gallery/image39
+  size: 634x960
+  thumbnail: ./img/gallery/image39-thumb
+  caption: Image caption
+- source: ./img/gallery/image40
+  size: 960x938
+  thumbnail: ./img/gallery/image40-thumb
+  caption: Image caption
+- source: ./img/gallery/image41
+  size: 858x960
+  thumbnail: ./img/gallery/image41-thumb
+  caption: Image caption
+- source: ./img/gallery/image42
+  size: 960x640
+  thumbnail: ./img/gallery/image42-thumb
+  caption: Image caption
+- source: ./img/gallery/image43
+  size: 960x620
+  thumbnail: ./img/gallery/image43-thumb
+  caption: Image caption
+- source: ./img/gallery/image44
+  size: 927x927
+  thumbnail: ./img/gallery/image44-thumb
+  caption: Image caption
+- source: ./img/gallery/image45
+  size: 960x960
+  thumbnail: ./img/gallery/image45-thumb
+  caption: Image caption
+- source: ./img/gallery/image46
+  size: 960x822
+  thumbnail: ./img/gallery/image46-thumb
+  caption: Image caption
+- source: ./img/gallery/image47
+  size: 4096x2926
+  thumbnail: ./img/gallery/image47-thumb
+  caption: Image caption
