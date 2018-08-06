@@ -605,3 +605,12 @@ footer {
     width: 100%;
   }
 }
+
+@media(max-width:500px) {
+  .intro-header-background {
+    background-image: url("./img/intro-bg-mobile.jpg");
+  }
+  .webp .intro-header-background {
+    background-image: url("./img/intro-bg-mobile.webp");
+  }
+}
