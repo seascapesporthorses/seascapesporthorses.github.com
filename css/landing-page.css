@@ -606,7 +606,7 @@ footer {
   }
 }
 
-@media(max-width:500px) {
+@media(max-width:512px) {
   .intro-header-background {
     background-image: url("./img/intro-bg-mobile.jpg");
   }
