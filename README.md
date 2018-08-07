@@ -1,2 +1,3 @@
-`purifycss` for critical css and minification
+`purgecss` for critical css
+`cssnano` for css minification
 `cwebp` for webp conversion
