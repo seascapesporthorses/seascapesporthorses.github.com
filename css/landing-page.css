@@ -94,7 +94,7 @@ img {
   bottom: 0;
   z-index: -1;
   background-color: #120718;
-  background-image: url("./img/intro-bg.jpg");
+  background-image: url("./img/intro-bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
@@ -103,8 +103,8 @@ img {
   filter: brightness(0.9);
 }
 
-.webp .intro-header-background {
-  background-image: url("./img/intro-bg.webp");
+.no-webp .intro-header-background {
+  background-image: url("./img/intro-bg.jpg");
 }
 
 .intro-header-background-party {
@@ -472,14 +472,14 @@ footer {
   right: 0;
   bottom: 0;
   z-index: -1;
-  background-image: url("./img/map-fallback.jpg");
+  background-image: url("./img/map-fallback.webp");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
 }
 
-.webp .map-image {
-  background-image: url("./img/map-fallback.webp");
+.no-webp .map-image {
+  background-image: url("./img/map-fallback.jpg");
 }
 
 .sponsor a{
@@ -608,9 +608,9 @@ footer {
 
 @media(max-width:512px) {
   .intro-header-background {
-    background-image: url("./img/intro-bg-mobile.jpg");
-  }
-  .webp .intro-header-background {
     background-image: url("./img/intro-bg-mobile.webp");
+  }
+  .no-webp .intro-header-background {
+    background-image: url("./img/intro-bg-mobile.jpg");
   }
 }
