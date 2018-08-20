@@ -120,7 +120,7 @@ img {
 }
 
 .intro-header-logo {
-  margin-bottom: 20px;
+  margin: 0 15px 20px;
 }
 
 .intro-message {
@@ -411,8 +411,8 @@ footer {
 }
 
 .navbar-brand img {
-  height: 34px;
-  margin: 3px 0;
+  height: 30px;
+  margin: 5px;
 }
 
 .navbar-header {
