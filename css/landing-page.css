@@ -613,4 +613,10 @@ footer {
   .no-webp .intro-header-background {
     background-image: url("./img/intro-bg-mobile.jpg");
   }
+  .map-image {
+    background-image: url("./img/map-fallback-mobile.webp");
+  }
+  .no-webp .map-image {
+    background-image: url("./img/map-fallback-mobile.jpg");
+  }
 }
