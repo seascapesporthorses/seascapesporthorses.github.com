@@ -1,7 +1,10 @@
 module.exports = {
     plugins: [
         require('cssnano')({
-            preset: 'default',
+            preset: [
+              'default',
+              { discardComments: { removeAll: true } },
+            ],
         }),
     ],
 };
