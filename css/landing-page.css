@@ -1,9 +1,9 @@
 a {
-  color: #64b0f2;
+  color: hsl(213, 67%, 77%);
 }
 
 a:hover {
-  color: #2682d2;
+  color: hsl(213, 47%, 67%);
 }
 
 body,
@@ -59,7 +59,7 @@ p {
 hr {
   width: 50%;
   min-width: 300px;
-  border-top: 1px solid #a2cff7;
+  border-top: 1px solid hsl(213, 67%, 87%);
   margin: 10px auto 40px;
 }
 
@@ -288,7 +288,7 @@ hr.intro-divider {
 }
 
 .thumbnail {
-  border-color: #a2cff7;
+  border-color: hsl(213, 67%, 87%);
   line-height: inherit;
 }
 
@@ -306,12 +306,12 @@ hr.intro-divider {
 }
 
 .btn-primary {
-  background-color: #91bfe8;
+  background-color: hsl(213, 67%, 77%);
   border-color: transparent;
 }
 
 .btn-primary:hover {
-  background-color: #81b3de;
+  background-color: hsl(213, 47%, 67%);
   border-color: transparent;
 }
 
