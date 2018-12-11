@@ -1,13 +1,14 @@
 #!/bin/bash
 
 echo "Combine CSS"
-cat css/fonts.css css/bootstrap.css css/landing-page.css > css/bundle.css
+cat css/fonts.css css/bootstrap.css css/landing-page.css > ./bundle.css
 
 echo "Critical CSS"
-purgecss --css css/bundle.css --content _includes/*.html _layouts/default.html --out .
-mv bundle.css css/critical.css
+purgecss --css ./bundle.css --content _includes/*.html _layouts/default.html --out css
+rm bundle.css
 
 echo "Minify CSS"
-postcss css/critical.css > css/bundle.min.css
+postcss css/bundle.css > css/bundle.min.css
+rm css/bundle.css
 
 echo "Build Complete"
