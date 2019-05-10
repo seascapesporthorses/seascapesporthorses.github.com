@@ -1,6 +1,7 @@
 `purgecss` for critical css
 `cssnano` for css minification
 `cwebp` for webp conversion
+`trimage` for jpg/png minification
 
 * All text dependencies inlined
 * Critical css generated with purgecss
