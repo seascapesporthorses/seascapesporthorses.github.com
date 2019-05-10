@@ -40,9 +40,33 @@
     </div>
   </div>
   <div class="map">
-    <template type="text/html" data-lazyload>
+    <!-- <template type="text/html" data-lazyload> -->
       <div class="map-image"></div>
-      <iframe class="map-content" src="/lib/snazzymaps/index.html" style="border:none;"></iframe>
-    </template>
+      <div id="map" class="map-content"></div>
+      <script>
+        function initMap() {
+          var center = {lat: 37.059626, lng: -121.549693};
+          var map = new google.maps.Map(document.getElementById('map'), {
+            center: center,
+            zoom: 9,
+            styles: [{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#6195a0"}]},{"featureType":"landscape","stylers":[{"color":"#f2f2f2"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"poi","stylers":[{"visibility":"off"}]},{"featureType":"poi.park","elementType":"geometry.fill","stylers":[{"color":"#e6f3d6"},{"visibility":"on"}]},{"featureType":"road","stylers":[{"saturation":-100},{"lightness":45},{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#f4f4f4"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels.text.fill","stylers":[{"color":"#787878"}]},{"featureType":"road.highway","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#f4d2c5"},{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"labels.text","stylers":[{"color":"#4e4e4e"}]},{"featureType":"transit","stylers":[{"visibility":"off"}]},{"featureType":"water","stylers":[{"color":"#eaf6f8"},{"visibility":"on"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#eaf6f8"}]}]
+          });
+          var marker = new google.maps.Marker({
+            position: center,
+            map: map,
+            title: 'Seascape Sport Horses'
+          });
+          var contentString = '<div style="font-family:Arial, Helvetica, sans-serif;padding: 10px;">'+
+            '<strong style="color: rgb(0, 0, 0);font-size:14px;display:block;margin-bottom:3px;">Seascape Sport Horses</strong>'+
+            '<a href="https://www.google.com/maps?q=10390+New+Ave,+Gilroy,+CA+95020" target="_blank" style="font-size: 12px; color: rgb(102, 163, 224);">10390 New Ave, Gilroy,CA 95020</a>'+
+            '</div>';
+          var infowindow = new google.maps.InfoWindow({
+            content: contentString
+          }).open(map, marker);
+        }
+      </script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdjHJtrxFdPUAKoZhcU6Ghxn-byxOjJ0c&callback=initMap"
+        async defer></script>
+    <!-- </template> -->
   </div>
 </section>
