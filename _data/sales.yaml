@@ -1,3 +1,10 @@
+- name: Armani
+  image: ./img/horses/armani-headshot-small
+  description: Flashy imported 16.1 hand 2014 Polish Warmblood gelding. Armani was imported late summer of 2018 and started slowly and correctly. Currently coursing over small jumps. He is a very fast learner. Excellent prospect for someone that wants an A circuit quality horse to finish their way with the scope for the bigger jumps. He would be suitable for the Hunters, Jumpers and Equitation. Clean X-rays and prepurchase from 2018. Located in Gilroy.
+  link: https://www.proequest.com/horse/armani-2
+  video: https://www.youtube.com/watch?v=0qvFaWaEfmY
+  width: 300
+  height: 300
 - name: Hotline Bling
   image: ./img/horses/hotline-bling-charis-woodside-jumping-small
   description: Super flashy imported Polish Warmblood Gelding. Tons of show experience on the A circuit. Lovely trot and jump. Shown in the 3ft Greens this past show season. Scope for 3’6"+. Will make an amazing Eq/Medal horse and will excel in the hunter derbies. Junior/Amateur safe.
@@ -5,22 +12,36 @@
   video: https://www.youtube.com/watch?v=rUZ_2I9yFRE
   width: 420
   height: 300
-- name: Pop Style
-  image: ./img/horses/pop-style-shannon-under-saddle-derby-woodside-small
-  description: Multiple Championships in the baby green divisions at Woodside, Sacramento International and Paso Robles. Has also won multiple large open training hunter classes. Shown by a beginner in the long stirrup at Paso Robles with great ribbons. Coming 5 year old, Pop Style, AKA Bowie, was imported from Holland in June 2016. Bowie is a beautiful hunter prospect by acclaimed stallion Bustique. He is currently 16 hands but will continue to grow. Coursing 3ft with flying changes. Incredibly calm and easygoing personality and not spooky. Very safe and forgiving for a junior or amateur! He will have an amazing future in the hunters and will make and excellent Junior Hunter/Derby Horse. Pop Style's price will increase with training and show experience.
-  link: https://www.proequest.com/horse/pop-style
-  video: https://www.youtube.com/watch?v=4Yxfk26hXsE
+- name: Mimosa
+  image: ./img/horses/mimosa-headshot-small
+  description: Mimosa is an incredibly brave and honest mare that will jump from absolutely anywhere. Imported from France, with experience up to 1.30m. Currently showing with her amateur owner in the 1.10-1.15. Ready to teach someone in the jumpers up to the 1.20s. Can double in the jumper medals as well. Great flatwork, very comfortable and a super fun ride! Not marish at all, very easy to have around the barn.
+  link: https://www.proequest.com/horse/mimosa
+  video: https://www.youtube.com/watch?v=f2GF-Yh1bm0
   width: 300
-  height: 300
+  height: 262
+# - name: Pop Style
+#   image: ./img/horses/pop-style-shannon-under-saddle-derby-woodside-small
+#   description: Multiple Championships in the baby green divisions at Woodside, Sacramento International and Paso Robles. Has also won multiple large open training hunter classes. Shown by a beginner in the long stirrup at Paso Robles with great ribbons. Coming 5 year old, Pop Style, AKA Bowie, was imported from Holland in June 2016. Bowie is a beautiful hunter prospect by acclaimed stallion Bustique. He is currently 16 hands but will continue to grow. Coursing 3ft with flying changes. Incredibly calm and easygoing personality and not spooky. Very safe and forgiving for a junior or amateur! He will have an amazing future in the hunters and will make and excellent Junior Hunter/Derby Horse. Pop Style's price will increase with training and show experience.
+#   link: https://www.proequest.com/horse/pop-style
+#   video: https://www.youtube.com/watch?v=4Yxfk26hXsE
+#   width: 300
+#   height: 300
 # - name: Sky Fall
 #   image: ./img/horses/sky-fall-menlo-pic-small
 #   description: Currently leading the zone in points in the 5 Year Old Jumpers. 4th Overall 5 year old Young Jumper Championships at the Oaks International Jumping Festival. Extensive "A" circuit  show record with top placings in the 1.15-1.20 open  jumpers and 5 year old classes. Has competed at Thermal, Woodside, Menlo, Rancho Murrieta. Will easily be able to compete in the 1.30 + jumpers in the future and continue in the 6 year old young jumpers next year. Very amateur friendly. Would also make an amazing Equitation horse. Great price for this talented horse with such an excellent show record!
 #   link: https://www.proequest.com/horse/sky-fall
 #   width: 420
 #   height: 300
+- name: Gentleman Jack
+  image: ./img/horses/gentleman-jack-sarah-small
+  description: <strong>SOLD!</strong> Congratulations Sarah Maples. We are so excited to welcome such a special and talented young horse to America! We can't wait to see you both shine in the Hunter and Equitation divisions this year!
+  link: https://www.proequest.com/horse/mimosa
+  video: https://www.youtube.com/watch?v=f2GF-Yh1bm0
+  width: 300
+  height: 342
 - name: Fortune Cookie
   image: ./img/horses/fortune-cookie-small
-  description: <strong>SOLD!</strong> Congratulations Katie and Judy Mannina. Can't wait for Katie and Finn's future together. Thank you for trusting us in the sale and training of such an amazing horse!
+  description: <strong>SOLD!</strong> Congratulations Katie and Judy Mannina.
   width: 368
   height: 300
 - name: Lucca

@@ -154,14 +154,6 @@
   size: 858x960
   thumbnail: ./img/gallery/image41-thumb
   caption: Image caption
-- source: ./img/gallery/image42
-  size: 960x640
-  thumbnail: ./img/gallery/image42-thumb
-  caption: Image caption
-- source: ./img/gallery/image43
-  size: 960x620
-  thumbnail: ./img/gallery/image43-thumb
-  caption: Image caption
 - source: ./img/gallery/image44
   size: 927x927
   thumbnail: ./img/gallery/image44-thumb
@@ -169,10 +161,6 @@
 - source: ./img/gallery/image45
   size: 960x960
   thumbnail: ./img/gallery/image45-thumb
-  caption: Image caption
-- source: ./img/gallery/image46
-  size: 960x822
-  thumbnail: ./img/gallery/image46-thumb
   caption: Image caption
 - source: ./img/gallery/image47
   size: 4096x2926
