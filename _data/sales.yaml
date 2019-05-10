@@ -35,8 +35,6 @@
 - name: Gentleman Jack
   image: ./img/horses/gentleman-jack-sarah-small
   description: <strong>SOLD!</strong> Congratulations Sarah Maples. We are so excited to welcome such a special and talented young horse to America! We can't wait to see you both shine in the Hunter and Equitation divisions this year!
-  link: https://www.proequest.com/horse/mimosa
-  video: https://www.youtube.com/watch?v=f2GF-Yh1bm0
   width: 300
   height: 342
 - name: Fortune Cookie
