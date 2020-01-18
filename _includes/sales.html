@@ -19,12 +19,16 @@
                 See {{ sale.name }}'s ProEquest Listing
               </a>
               {% endif %}
-              {% if sale.video %}
-              <a href="{{ sale.video }}" target="_blank" rel="noopener" class="btn btn-primary sale-link" role="button">
-                {% include_relative img/icons/brands/youtube.svg %}
-                See {{ sale.name }}'s Video
-              </a>
-              {% endif %}
+              {% for video in sale.videos %}
+                <a href="{{ video.url }}" target="_blank" rel="noopener" class="btn btn-primary sale-link" role="button">
+                  {% include_relative img/icons/brands/youtube.svg %}
+                  {% if video.description %}
+                    {{ video.description }}
+                  {% else %}
+                    See {{ sale.name }}'s Video
+                  {% endif %}
+                </a>
+              {% endfor %}
             </p>
           </div>
         </div>

@@ -1,3 +1,59 @@
+- source: ./img/gallery/image48
+  size: 1286x1607
+  thumbnail: ./img/gallery/image48-thumb
+  caption: Image caption
+- source: ./img/gallery/image49
+  size: 1275x1201
+  thumbnail: ./img/gallery/image49-thumb
+  caption: Image caption
+- source: ./img/gallery/image50
+  size: 1000x970
+  thumbnail: ./img/gallery/image50-thumb
+  caption: Image caption
+- source: ./img/gallery/image51
+  size: 1800x1200
+  thumbnail: ./img/gallery/image51-thumb
+  caption: Image caption
+- source: ./img/gallery/image52
+  size: 1767x1262
+  thumbnail: ./img/gallery/image52-thumb
+  caption: Image caption
+- source: ./img/gallery/image53
+  size: 2340x2340
+  thumbnail: ./img/gallery/image53-thumb
+  caption: Image caption
+- source: ./img/gallery/image54
+  size: 3024x4032
+  thumbnail: ./img/gallery/image54-thumb
+  caption: Image caption
+- source: ./img/gallery/image55
+  size: 1440x1440
+  thumbnail: ./img/gallery/image55-thumb
+  caption: Image caption
+- source: ./img/gallery/image56
+  size: 1242x1210
+  thumbnail: ./img/gallery/image56-thumb
+  caption: Image caption
+- source: ./img/gallery/image57
+  size: 663x828
+  thumbnail: ./img/gallery/image57-thumb
+  caption: Image caption
+- source: ./img/gallery/image58
+  size: 1536x2048
+  thumbnail: ./img/gallery/image58-thumb
+  caption: Image caption
+- source: ./img/gallery/image59
+  size: 960x960
+  thumbnail: ./img/gallery/image59-thumb
+  caption: Image caption
+- source: ./img/gallery/image60
+  size: 2208x1242
+  thumbnail: ./img/gallery/image60-thumb
+  caption: Image caption
+- source: ./img/gallery/image61
+  size: 3513x2509
+  thumbnail: ./img/gallery/image61-thumb
+  caption: Image caption
 - source: ./img/gallery/image1
   size: 1270x1242
   thumbnail: ./img/gallery/image1-thumb
