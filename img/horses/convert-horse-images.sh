@@ -1,5 +1,4 @@
 #! /bin/sh
-# Convert horse images
 for file in "$@"; do
   name=`basename $file .jpg`
   convert $name.jpg -resize 640x640^ $name-small.jpg

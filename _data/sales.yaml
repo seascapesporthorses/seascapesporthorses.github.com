@@ -33,17 +33,11 @@
 - name: Armani
   image: ./img/horses/armani-headshot-small
   description: <strong>SOLD!</strong>
-  link: https://www.proequest.com/horse/armani-2
-  videos:
-    - url: https://www.youtube.com/watch?v=0qvFaWaEfmY
   width: 300
   height: 300
 - name: SkyFall
   image: ./img/horses/sky-fall-jumping
   description: <strong>SOLD!</strong> Congratulations to Lauren Dreyer and trainers Hillary and Robert Ridland!
-  link: https://www.proequest.com/horse/sky-fall
-  videos:
-    - url: https://www.youtube.com/watch?v=i2LOVHgYTU4
   width: 420
   height: 300
 - name: Gentleman Jack
