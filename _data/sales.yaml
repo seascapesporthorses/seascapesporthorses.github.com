@@ -1,19 +1,6 @@
-- name: Armani
-  image: ./img/horses/armani-headshot-small
-  description: Flashy imported 16.1 hand 2014 Polish Warmblood gelding. Armani was imported late summer of 2018 and started slowly and correctly. Currently coursing over small jumps. He is a very fast learner. Excellent prospect for someone that wants an A circuit quality horse to finish their way with the scope for the bigger jumps. He would be suitable for the Hunters, Jumpers and Equitation. Clean X-rays and prepurchase from 2018. Located in Gilroy.
-  link: https://www.proequest.com/horse/armani-2
-  videos:
-    - url: https://www.youtube.com/watch?v=0qvFaWaEfmY
-  width: 300
-  height: 300
 - name: For C It
   image: ./img/horses/for-c-it
-  description: “For C it” barn name Cool is a 17 hand 2010 registered Oldenburg gelding out of For Play. Cool was started over fences earlier this year and is a wonderful prospect for the hunter and equitation ring. Would be a great project for a talented amateur or junior to bring along in a training program. Eligible everything. Priced in the low five figures. Located in Gilroy, CA.
-  videos:
-    - url: https://www.youtube.com/watch?v=NaAnYI2cLSg
-      description: Cool Flat
-    - url: https://www.youtube.com/watch?v=oMb6ZijehYI
-      description: Cool Jumping
+  description: “For C it” barn name Cool is a 17 hand 2010 registered Oldenburg gelding out of For Play. Cool is coursing 3-3’3” with flying changes. Would be a great project for a talented amateur or junior to bring along in a training program as an equitation/derby horse. Eligible everything. Contact for price. Located in Gilroy, CA.
   width: 300
   height: 300
 - name: Hotline Bling
@@ -35,14 +22,6 @@
       description: Meet Mimosa
   width: 300
   height: 262
-- name: SkyFall
-  image: ./img/horses/sky-fall-jumping
-  description:
-  link: https://www.proequest.com/horse/sky-fall
-  videos:
-    - url: https://www.youtube.com/watch?v=i2LOVHgYTU4
-  width: 420
-  height: 300
 # - name: Pop Style
 #   image: ./img/horses/pop-style-shannon-under-saddle-derby-woodside-small
 #   description: Multiple Championships in the baby green divisions at Woodside, Sacramento International and Paso Robles. Has also won multiple large open training hunter classes. Shown by a beginner in the long stirrup at Paso Robles with great ribbons. Coming 5 year old, Pop Style, AKA Bowie, was imported from Holland in June 2016. Bowie is a beautiful hunter prospect by acclaimed stallion Bustique. He is currently 16 hands but will continue to grow. Coursing 3ft with flying changes. Incredibly calm and easygoing personality and not spooky. Very safe and forgiving for a junior or amateur! He will have an amazing future in the hunters and will make and excellent Junior Hunter/Derby Horse. Pop Style's price will increase with training and show experience.
@@ -51,6 +30,22 @@
 #     - url: https://www.youtube.com/watch?v=4Yxfk26hXsE
 #   width: 300
 #   height: 300
+- name: Armani
+  image: ./img/horses/armani-headshot-small
+  description: <strong>SOLD!</strong>
+  link: https://www.proequest.com/horse/armani-2
+  videos:
+    - url: https://www.youtube.com/watch?v=0qvFaWaEfmY
+  width: 300
+  height: 300
+- name: SkyFall
+  image: ./img/horses/sky-fall-jumping
+  description: <strong>SOLD!</strong> Congratulations to Lauren Dreyer and trainers Hillary and Robert Ridland!
+  link: https://www.proequest.com/horse/sky-fall
+  videos:
+    - url: https://www.youtube.com/watch?v=i2LOVHgYTU4
+  width: 420
+  height: 300
 - name: Gentleman Jack
   image: ./img/horses/gentleman-jack-sarah-small
   description: <strong>SOLD!</strong> Congratulations Sarah Maples. We are so excited to welcome such a special and talented young horse to America! We can't wait to see you both shine in the Hunter and Equitation divisions this year!
