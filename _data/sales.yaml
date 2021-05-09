@@ -1,8 +1,3 @@
-- name: For C It
-  image: ./img/horses/for-c-it
-  description: “For C it” barn name Cool is a 17 hand 2010 registered Oldenburg gelding out of For Play. Cool is coursing 3-3’3” with flying changes. Would be a great project for a talented amateur or junior to bring along in a training program as an equitation/derby horse. Eligible everything. Contact for price. Located in Gilroy, CA.
-  width: 300
-  height: 300
 - name: Hotline Bling
   image: ./img/horses/hotline-bling-charis-woodside-jumping-small
   description: Super flashy imported Polish Warmblood Gelding. Tons of show experience on the A circuit. Lovely trot and jump. Shown in the 3ft Greens this past show season. Scope for 3’6"+. Will make an amazing Eq/Medal horse and will excel in the hunter derbies. Junior/Amateur safe.
@@ -30,6 +25,11 @@
 #     - url: https://www.youtube.com/watch?v=4Yxfk26hXsE
 #   width: 300
 #   height: 300
+- name: For C It
+  image: ./img/horses/for-c-it
+  description: <strong>SOLD!</strong> Congratulations to Carolyn Costa and trainer Joe Thorpe at Sovereign Place!
+  width: 300
+  height: 300
 - name: Armani
   image: ./img/horses/armani-headshot-small
   description: <strong>SOLD!</strong>
